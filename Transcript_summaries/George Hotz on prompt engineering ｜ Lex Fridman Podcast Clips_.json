@@ -1,0 +1,209 @@
+[
+  {
+    "start": 2.9436860068259385,
+    "end": 24.598976109215016,
+    "speaker": "SPEAKER_01",
+    "text": " On Instagram, your title is listed as Prompt Engineer. Right. Thank you for noticing. I don't know if it's ironic or non or sarcastic or non. What do you think of Prompt Engineering as a scientific and engineering discipline or maybe art form?"
+  },
+  {
+    "start": 7.602389078498294,
+    "end": 8.592150170648464,
+    "speaker": "SPEAKER_00",
+    "text": " Thank you for noticing."
+  },
+  {
+    "start": 24.9061433447099,
+    "end": 25.281569965870307,
+    "speaker": "SPEAKER_00",
+    "text": " You know what?"
+  },
+  {
+    "start": 26.715017064846418,
+    "end": 29.99146757679181,
+    "speaker": "SPEAKER_00",
+    "text": " I started comma six years ago. And I started the tiny corp, a month ago."
+  },
+  {
+    "start": 32.61945392491468,
+    "end": 36.95392491467577,
+    "speaker": "SPEAKER_00",
+    "text": " so much has changed. Like I'm now thinking I'm now like"
+  },
+  {
+    "start": 38.35324232081912,
+    "end": 44.496587030716725,
+    "speaker": "SPEAKER_00",
+    "text": " I started going through similar comma processes to starting a company. I'm like, okay, I'm going to get an office in San Diego. I'm going to bring people here."
+  },
+  {
+    "start": 41.81740614334471,
+    "end": 41.851535836177476,
+    "speaker": "SPEAKER_01",
+    "text": ""
+  },
+  {
+    "start": 45.844709897610926,
+    "end": 102.9948805460751,
+    "speaker": "SPEAKER_00",
+    "text": " I don't think so. I think I'm actually gonna do remote. Towards you gonna do remote, you hate remote. Yeah, but I'm not gonna do job interviews. The only way you're gonna get a job is if you contribute to the GitHub, right? And then like interacting through GitHub, like GitHub being the real project management software for your company and the thing pretty much just is a GitHub repo is showing me kind of with the future of, okay, so a lot of times I'll go into Discord or kind of grab Discord. And I'll throw out some random like, hey, can you change instead of having log and X as LL ops, change it to log to an X, too? It's pretty small change, you can just use like change a base formula. That's the kind of task that I can see in AI being able to do in a few years. Like in a few years I could see myself describing that and then within 30 seconds of pull request is up that does it. And it passes my CI and I merge it, right? So I really started thinking about like, well, what is the future of,"
+  },
+  {
+    "start": 104.18941979522185,
+    "end": 114.15529010238909,
+    "speaker": "SPEAKER_00",
+    "text": " jobs, how many AIs can I employ at my company? As soon as we get the first tiny box up, I'm gonna stand up a 65-V Lama in the Discord. And it's like, yeah, here's the tiny box. He's just like, he's chilling with us."
+  },
+  {
+    "start": 115.24744027303755,
+    "end": 124.39419795221843,
+    "speaker": "SPEAKER_01",
+    "text": " Basically, like you said, when you're just like most human jobs will eventually be replaced with prompt engineering."
+  },
+  {
+    "start": 124.7184300341297,
+    "end": 127.43174061433447,
+    "speaker": "SPEAKER_00",
+    "text": " Well, prompt engineering kind of is this like?"
+  },
+  {
+    "start": 128.55802047781572,
+    "end": 150.9982935153584,
+    "speaker": "SPEAKER_00",
+    "text": " as you move up the stack, right? Like, okay, there used to be humans actually doing arithmetic by hand. There used to be big farms of people doing pluses and stuff, right? And then you have spreadsheets, right? And then, okay, the spreadsheet can do the plus for me. And then you have macros, right? And then you have things that basically just are spreadsheets under the hood, like accounting software."
+  },
+  {
+    "start": 151.59556313993176,
+    "end": 152.1928327645051,
+    "speaker": "SPEAKER_00",
+    "text": " Um."
+  },
+  {
+    "start": 153.57508532423208,
+    "end": 157.82423208191125,
+    "speaker": "SPEAKER_00",
+    "text": " as we move further up the abstraction, or what's at the top of the abstraction stack? Well, prompt engineer."
+  },
+  {
+    "start": 158.7798634812287,
+    "end": 165.50341296928326,
+    "speaker": "SPEAKER_00",
+    "text": " Yeah. All right, what is the last thing if you think about like humans wanting to keep control?"
+  },
+  {
+    "start": 166.23720136518773,
+    "end": 168.83105802047783,
+    "speaker": "SPEAKER_00",
+    "text": " Well, what am I really in the company, but a prompt engineer?"
+  },
+  {
+    "start": 169.80375426621163,
+    "end": 174.22354948805463,
+    "speaker": "SPEAKER_01",
+    "text": " Is there a certain point where the AI will be better at writing prompts?"
+  },
+  {
+    "start": 174.76962457337885,
+    "end": 181.919795221843,
+    "speaker": "SPEAKER_00",
+    "text": " But you see the problem with the AI writing prompts, a definition that I always liked of AI was AI is to do what I mean machine."
+  },
+  {
+    "start": 183.06313993174064,
+    "end": 204.00170648464166,
+    "speaker": "SPEAKER_00",
+    "text": " AI is not the computer is so pedantic. It does what you say. So, but you want to do what I mean machine. Yeah. You want the machine where you say, you know, get my grandmother out of the burning house. It like reasonably takes your grandmother and puts her on the ground, not lifts her a thousand feet above the burning house and lets her fall. Right? But you know, you can't ski a cliff."
+  },
+  {
+    "start": 191.69795221843003,
+    "end": 192.02218430034128,
+    "speaker": "SPEAKER_01",
+    "text": " Yeah."
+  },
+  {
+    "start": 202.0392491467577,
+    "end": 202.87542662116044,
+    "speaker": "SPEAKER_01",
+    "text": " Bye."
+  },
+  {
+    "start": 203.6774744027304,
+    "end": 214.49658703071674,
+    "speaker": "SPEAKER_01",
+    "text": " But it's not going to find the meaning. I mean, to do what I mean, it has to figure stuff out. Sure. And."
+  },
+  {
+    "start": 204.92320819112626,
+    "end": 205.33276450511948,
+    "speaker": "SPEAKER_00",
+    "text": ""
+  },
+  {
+    "start": 215.3668941979522,
+    "end": 219.7525597269625,
+    "speaker": "SPEAKER_01",
+    "text": " The thing you'll maybe ask it to do is run government for me."
+  },
+  {
+    "start": 219.95733788395904,
+    "end": 249.2064846416382,
+    "speaker": "SPEAKER_00",
+    "text": " Oh, and do what I mean very much comes down to how aligned is that AI with you. Of course, when you talk to an AI that's made by a big company in the cloud, the AI fundamentally is aligned to them, not to you. Yeah. And that's why you have to buy a tiny box. So you make sure the AI stays aligned to you. Every time that they start to pass, you know, AI regulation or GPU regulation, I'm going to see sales of tiny boxes spike. That's going to be like guns, right? Every time they talk about gun regulation, boom. Gun sales."
+  },
+  {
+    "start": 249.2064846416382,
+    "end": 254.95733788395904,
+    "speaker": "SPEAKER_01",
+    "text": " So in the space of AI you're an anarchist, anarchism espowser, believer."
+  },
+  {
+    "start": 254.94027303754268,
+    "end": 278.8651877133106,
+    "speaker": "SPEAKER_00",
+    "text": " I'm an informational anarchist, yes. I'm an informational anarchist and a physical status. I do not think anarchy in the physical world is very good because I exist in the physical world. But I think we can construct this virtual world where anarchy, it can't hurt you, right? I love that Tyler the creator tweet. Your cyber bullying is a real man. Have you tried turning off the screen? Close your eyes like. Yeah."
+  },
+  {
+    "start": 281.4590443686007,
+    "end": 297.8754266211604,
+    "speaker": "SPEAKER_01",
+    "text": " But how do you prevent the AI from basically replacing all human prompt engineers? Well, there's like a self like where nobody's the prompt engineer anymore. So autonomy, greater and greater autonomy until it's full autonomy."
+  },
+  {
+    "start": 297.8754266211604,
+    "end": 298.2337883959044,
+    "speaker": "SPEAKER_00",
+    "text": " Yeah."
+  },
+  {
+    "start": 299.3600682593857,
+    "end": 304.9061433447099,
+    "speaker": "SPEAKER_01",
+    "text": " And that's just where it's headed. Because one person is gonna say, run everything for me."
+  },
+  {
+    "start": 305.3839590443686,
+    "end": 306.4931740614334,
+    "speaker": "SPEAKER_00",
+    "text": " You see?"
+  },
+  {
+    "start": 308.2679180887372,
+    "end": 340.2133105802048,
+    "speaker": "SPEAKER_00",
+    "text": " I look at potential futures. And as long as the AIs go on to create a vibrant civilization with diversity and complexity across the universe, more power to them. I'll die. If the AIs go on to actually turn the world into paperclips, and then they die out themselves, well, that's horrific, and we don't want that to happen. So this is what I mean about robustness. I trust robust machines. The current AIs are so not robust. Like this comes back to the idea that we've never made a machine that can self-replicate."
+  },
+  {
+    "start": 341.0324232081911,
+    "end": 347.05631399317406,
+    "speaker": "SPEAKER_00",
+    "text": " But if the machines are truly robust and there is one prompt engineer left in the world,"
+  },
+  {
+    "start": 349.34300341296927,
+    "end": 358.69453924914677,
+    "speaker": "SPEAKER_00",
+    "text": " Hope you're doing good, man. Hope you believe in God. Like, you know, go by God and go forth and come to the universe."
+  },
+  {
+    "summary": "During the conversation, the speakers discuss the concept of \"Prompt Engineering\" and its role as a scientific, engineering, and artistic discipline. They also discuss the future of jobs and the potential impact of AI in replacing human workers. The speaker contemplates employing AI at their company and using GitHub as a way to evaluate potential hires. They also discuss the importance of AI aligning with human intentions and the need for individual ownership of AI through devices like \"tiny boxes\". The speaker expresses their belief in anarchy in the virtual world but acknowledges the need for regulation in the physical world. They emphasize the importance of robust and autonomous machines and express a hope for AI to create a vibrant and diverse civilization. The conversation concludes with a hopeful message."
+  }
+]

@@ -1,0 +1,131 @@
+[
+  {
+    "start": 3.080204778156997,
+    "end": 10.571672354948806,
+    "speaker": "SPEAKER_00",
+    "text": " What do you think is the timeline to solve the problem of autonomous driving? That's still in part an open question."
+  },
+  {
+    "start": 11.629692832764505,
+    "end": 40.520477815699664,
+    "speaker": "SPEAKER_01",
+    "text": " Yeah, I think the tough thing with timelines of salt driving, obviously, is that no one has created salt driving. Yeah. So it's not like, what do you think is a timeline to build this bridge? Well, we've built million bridges before. Here's how long that takes. It's, you know, it's a, no one has built autonomy. It's not obvious. Some parts turn out to be much easier than others. It's really hard to forecast. You do your best based on trend lines and so on and based on intuition. But that's why fundamentally it's just really hard to forecast this. No one has to."
+  },
+  {
+    "start": 39.94027303754267,
+    "end": 44.08703071672355,
+    "speaker": "SPEAKER_00",
+    "text": " No one has to even still like being inside of it is hard to do."
+  },
+  {
+    "start": 44.01877133105802,
+    "end": 47.17576791808874,
+    "speaker": "SPEAKER_01",
+    "text": " Yes, some things turn out to be much harder and some things turn out to be much easier."
+  },
+  {
+    "start": 48.04607508532423,
+    "end": 70.23037542662117,
+    "speaker": "SPEAKER_00",
+    "text": " Do you try to avoid making forecasts? Because Elon doesn't avoid them, right? And heads of car companies in the past have not avoided it either. Ford and other places have made predictions that we're gonna solve at level four driving by 2020, 2021, whatever. And now they all kind of backtrack in that prediction. I, as a,"
+  },
+  {
+    "start": 57.141638225255974,
+    "end": 57.39761092150171,
+    "speaker": "SPEAKER_01",
+    "text": " Hmm."
+  },
+  {
+    "start": 71.49317406143345,
+    "end": 73.06313993174062,
+    "speaker": "SPEAKER_00",
+    "text": " as an AI person."
+  },
+  {
+    "start": 74.06996587030717,
+    "end": 82.17576791808874,
+    "speaker": "SPEAKER_00",
+    "text": " Do you for yourself privately make predictions, or do they get in the way of like your actual ability to think about a thing?"
+  },
+  {
+    "start": 82.96075085324233,
+    "end": 102.2098976109215,
+    "speaker": "SPEAKER_01",
+    "text": " Yeah, I would say like what's easy to say is that this problem is tractable and that's an easy prediction to make it's tractable. It's going to work. Yes, it's just really hard. Something's not to be harder. Something's not to be easier. So, but it's definitely feels tractable and it feels like at least the team at Tesla, which is what I saw internally is definitely on track to that."
+  },
+  {
+    "start": 102.36348122866895,
+    "end": 112.58532423208192,
+    "speaker": "SPEAKER_00",
+    "text": " How do you form a strong representation that allows you to make a prediction of all tractability? So, you're the leader of a lot of humans."
+  },
+  {
+    "start": 113.60921501706486,
+    "end": 134.36006825938568,
+    "speaker": "SPEAKER_00",
+    "text": " You have to kind of say this is actually possible. Like how do you build up that intuition? It doesn't have to be even driving, it could be other tasks. It could be, um, I want to, what difficult tasks do you work on your life? I mean, classification, achieving certain, just an image net, certain level of superhuman level performance."
+  },
+  {
+    "start": 117.9778156996587,
+    "end": 118.14846416382254,
+    "speaker": "SPEAKER_01",
+    "text": " Yeah."
+  },
+  {
+    "start": 122.68771331058021,
+    "end": 123.38737201365188,
+    "speaker": "SPEAKER_01",
+    "text": " it be uh..."
+  },
+  {
+    "start": 134.85494880546077,
+    "end": 138.50682593856658,
+    "speaker": "SPEAKER_01",
+    "text": " Yeah, expert intuition. It's just intuition. It's belief."
+  },
+  {
+    "start": 138.50682593856658,
+    "end": 229.9061433447099,
+    "speaker": "SPEAKER_00",
+    "text": " So just like thinking about it long enough like studying looking at sample data like you said driving My intuition is really flawed on this like I don't have a good intuition about tractability It could be either it could be anything it could be solvable like You know the driving task could could be Simplified into something quite trivial like the solutions to the problem would be quite trivial and at scale more and more cars driving perfectly Might make the problem much easier. Yeah, the more cars you have driving like people learn how to drive correctly Not correctly, but in a way that's more optimal for heterogeneous system of autonomous and semi-autonomous and manually driven cars that could change stuff Then again also I've spent a ridiculous number of hours just staring at pedestrians crossing streets Thinking about humans and it feels like the way we use our eye contact It sends really strong signals and there's certain quirks in edge cases of behavior And of course a lot of the fatalities that happen have to do with drunk driving and Both on the pedestrian side and the driver's side so there's that problem of driving at night and all that kind of yeah So I wonder you know, let's like the space Of possible solution in autonomous driving includes so many human factor issues That it's almost impossible to predict if there could be super clean nice solutions"
+  },
+  {
+    "start": 192.27815699658703,
+    "end": 192.7047781569966,
+    "speaker": "SPEAKER_01",
+    "text": " haha"
+  },
+  {
+    "start": 229.9061433447099,
+    "end": 269.0358361774744,
+    "speaker": "SPEAKER_01",
+    "text": " Yeah, I would say definitely like to use a game analogy, there's some fog of war, but you definitely also see the frontier of improvement. And you can measure historically how much you've made progress. And I think, for example, at least what I've seen in roughly five years at Tesla, when I joined it barely kept lane on the highway. I think going up from Pallalto to SF was like three or four interventions. Any time the road would do anything geometrically or turn too much, it would just like not work. And so going from that to like a pretty competent system in five years and seeing what happens also under the hood. And what the scale of which the team is operating now with respect to data and compute to everything else is just massive progress. So."
+  },
+  {
+    "start": 269.29180887372013,
+    "end": 274.598976109215,
+    "speaker": "SPEAKER_00",
+    "text": " So you're climbing a mountain and it's fog, but you make a lot of progress."
+  },
+  {
+    "start": 274.3259385665529,
+    "end": 287.0051194539249,
+    "speaker": "SPEAKER_01",
+    "text": " You're making progress and you see what the next directions are and you're looking at some of the remaining challenges and they're not like They're not perturbing you and they're not changing your philosophy and you're not Contorting yourself. You're like actually these are the things I've always told you to do"
+  },
+  {
+    "start": 287.0051194539249,
+    "end": 295.31569965870307,
+    "speaker": "SPEAKER_00",
+    "text": " Yeah, the fundamental components of solving the problem seem to be there from a data engine to the computer, the computer on the car to the computer, the training, all that kind of stuff."
+  },
+  {
+    "start": 294.0870307167236,
+    "end": 294.2064846416382,
+    "speaker": "SPEAKER_01",
+    "text": " Thank you."
+  },
+  {
+    "summary": "The conversation revolves around the timeline for solving the problem of autonomous driving. The speakers acknowledge that predicting a timeline is challenging since no one has created fully autonomous driving before. Some aspects of the problem are easier than others, and it is difficult to forecast progress accurately. The speakers discuss the tendency of car companies and individuals to make predictions and then backtrack on them. The leader of the conversation mentions their belief that the problem of autonomous driving is tractable and that their team at Tesla is on track to achieving it. They discuss the formation of intuition and belief through studying, analyzing data, and spending time thinking about the problem. The conversation also touches on the many human factors involved in autonomous driving, such as pedestrian behavior, eye contact, and driving at night. The progress made at Tesla in the past five years is also highlighted, with the system going from barely keeping the lane on the highway to becoming more competent. Despite remaining challenges, the speakers maintain their belief in the fundamental components being in place to solve the problem, including data engines, onboard computers, and training processes."
+  }
+]

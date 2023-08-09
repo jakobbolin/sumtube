@@ -1,0 +1,95 @@
+[
+  {
+    "start": 2.977815699658703,
+    "end": 13.080204778156997,
+    "speaker": "SPEAKER_01",
+    "text": " Is there cool small projects like our kind of sanity and so on that you're thinking about the world, the ML world can anticipate."
+  },
+  {
+    "start": 13.77986348122867,
+    "end": 26.11774744027304,
+    "speaker": "SPEAKER_00",
+    "text": " There's always some fun side projects. Our capacity is one. Basically, there's way too many archive papers. How can I organize it and recommend papers and so on? I transcribed all of your podcasts. What is your favorite?"
+  },
+  {
+    "start": 24.513651877133107,
+    "end": 39.769624573378834,
+    "speaker": "SPEAKER_01",
+    "text": " Yeah, podcasts. What is your learn from that experience from transcribing the process of like you like consuming audiobooks and podcasts and so on. And here's a process that achieves closer to human level performance and annotation."
+  },
+  {
+    "start": 33.711604095563146,
+    "end": 33.89931740614334,
+    "speaker": "SPEAKER_00",
+    "text": " Thank you."
+  },
+  {
+    "start": 39.92320819112628,
+    "end": 80.99829351535837,
+    "speaker": "SPEAKER_00",
+    "text": " Yeah, well, I definitely was like surprised that transcription with opening as whisperer was working so well compared to what I'm familiar with from Siri and like a few other systems, I guess it works so well and That's what gave me some energy to like try it out and I thought it could be fun to run on podcasts. It's kind of not obvious to me why whisper is so much better compared to anything else because I feel like there should be a lot of incentive for a lot of companies to produce transcription systems and that they've done so over a long time whisperer is not a super exotic model. It's a transformer. It takes male spectrograms and you know just outputs tokens of text. It's not crazy. The model and everything has been around for a long time. I'm not actually 100% sure why."
+  },
+  {
+    "start": 80.99829351535837,
+    "end": 145.93003412969284,
+    "speaker": "SPEAKER_01",
+    "text": " It's not obvious to me either. It makes me feel like I'm missing something for the missing something. Yeah, because there's huge, even Google and so on YouTube transcription. Yeah. Yeah, it's unclear, but some of it is also integrating into a bigger system. Yeah. That is so the user interface, how's deployed, and all that kind of stuff. Maybe running it as an independent thing is much easier, like an order magnitude easier than deploying to a large integrated system, like YouTube transcription or anything, like meetings. Exoom has transcription that's kind of crappy, but creating interface where the text are different individual speakers, it's able to display it in compelling ways, run it real time, all that kind of stuff. Maybe that's difficult. But I still have the explanation I have because I'm currently paying quite a bit for human transcription, human caption, annotation. And like it seems like there's a huge incentive to automate that. Yeah, it's very confusing. And I think"
+  },
+  {
+    "start": 84.80375426621161,
+    "end": 86.3566552901024,
+    "speaker": "SPEAKER_00",
+    "text": " I'm messing with something. Yeah."
+  },
+  {
+    "start": 91.0665529010239,
+    "end": 91.339590443686,
+    "speaker": "SPEAKER_00",
+    "text": " Yeah."
+  },
+  {
+    "start": 96.47610921501708,
+    "end": 96.69795221843005,
+    "speaker": "SPEAKER_00",
+    "text": " Yeah."
+  },
+  {
+    "start": 144.54778156996588,
+    "end": 149.56484641638224,
+    "speaker": "SPEAKER_00",
+    "text": " Yeah, it's very confusing. And I think, I mean, I don't know if you look at some of the whisper transcripts, but they're quite good."
+  },
+  {
+    "start": 149.56484641638224,
+    "end": 172.24402730375425,
+    "speaker": "SPEAKER_01",
+    "text": " They're good. And especially in tricky cases. I've seen whisper performance on like super tricky cases and it doesn't credibly well. So I don't know. Apocas is pretty simple. It's like high quality audio and you're speaking usually pretty clearly. So I don't know. I don't know what open AIS plans are either."
+  },
+  {
+    "start": 171.5784982935154,
+    "end": 199.73549488054607,
+    "speaker": "SPEAKER_00",
+    "text": " Yeah, either. But yeah, there's always like fun projects basically. And stable diffusion also is opening up a huge amount of experimentation. I would say in the visual realm and generating images and videos and movies. Ultimately, videos now. And so that's going to be pretty crazy. That's going to that's going to almost certainly work. And it's going to be really interesting when the cost of content creation is going to fall to zero. You used to need a painter for a few months to paint a thing. And now it's going to be speak to your phone to get your video."
+  },
+  {
+    "start": 183.30204778156997,
+    "end": 184.08703071672358,
+    "speaker": "SPEAKER_01",
+    "text": " and that for now."
+  },
+  {
+    "start": 199.73549488054607,
+    "end": 212.85836177474403,
+    "speaker": "SPEAKER_01",
+    "text": " So Hollywood will start using that to generate scenes, which completely opens up. Yeah, so you can make a movie like Avatar eventually for under a million dollars."
+  },
+  {
+    "start": 213.02901023890786,
+    "end": 218.04607508532422,
+    "speaker": "SPEAKER_00",
+    "text": " much less, maybe just by talking to your phone. I mean, I know it sounds kind of crazy. Hahaha."
+  },
+  {
+    "summary": "In this conversation, Speaker_01 asks Speaker_00 if there are any cool small projects in the ML community that they can anticipate. Speaker_00 mentions a project called \"Our Capacity,\" which aims to organize and recommend archive papers. Speaker_00 also shares their experience transcribing podcasts and audiobooks and mentions that the Whisper model worked well for transcription. However, it's not clear why Whisper is superior to other transcription systems. Speaker_01 speculates that integration into larger systems may pose challenges. They also discuss the potential for automating transcription and the confusion around why it hasn't been widely implemented, considering the incentive to automate such tasks. Speaker_00 mentions that stable diffusion is enabling experimentation in the visual realm, particularly in generating images, videos, and movies. They believe that as the cost of content creation falls to zero, Hollywood could use AI-generated scenes to produce movies like Avatar at a significantly lower cost."
+  }
+]

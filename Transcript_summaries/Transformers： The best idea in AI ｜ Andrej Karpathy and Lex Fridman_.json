@@ -1,0 +1,143 @@
+[
+  {
+    "start": 2.9607508532423212,
+    "end": 21.868600682593858,
+    "speaker": "SPEAKER_01",
+    "text": " Looking back, what is the most beautiful or surprising idea in deep learning or AI in general that you've come across? You've seen this field explode and grow in interesting ways. Just what cool ideas like we made you sit back and go, small, bigger, small."
+  },
+  {
+    "start": 23.284982935153586,
+    "end": 27.36348122866894,
+    "speaker": "SPEAKER_00",
+    "text": " Well, the one that I've been thinking about recently, the most probably is the..."
+  },
+  {
+    "start": 28.438566552901026,
+    "end": 64.49658703071673,
+    "speaker": "SPEAKER_00",
+    "text": " the transformer architecture. So basically, neural hours have a lot of architectures that were trendy have come and gone for different sensor and modalities, like for vision, audio, text. You would process them with different look in neural mats. And recently we've seen these convergence towards one architecture, the transformer. And you can feed it video or you can feed it, images or speech or text, and it just gobbles it up. And it's kind of like a bit of a general purpose computer that there is also trainable and very efficient to run in our hardware. And so this paper came out in 2016, I want to say."
+  },
+  {
+    "start": 64.49658703071673,
+    "end": 76.69795221843005,
+    "speaker": "SPEAKER_01",
+    "text": " attention is all you need. Attention is all you need. You criticize the paper title in retrospect that it wasn't, it didn't foresee the bigness of the impact that it was going to have."
+  },
+  {
+    "start": 75.63993174061434,
+    "end": 75.91296928327645,
+    "speaker": "SPEAKER_00",
+    "text": " Yeah."
+  },
+  {
+    "start": 76.66382252559728,
+    "end": 105.7764505119454,
+    "speaker": "SPEAKER_00",
+    "text": " I'm not sure if the authors were aware of the impact that paper would go on to have, probably they weren't. But I think they were aware of some of the motivations and design decisions behind the transformer and they chose not to, I think, expand on it in that way in the paper. And so I think they had an idea that there was more than just the surface of just like, we're just doing translation and here's a better architecture. You're not just doing translation. This is like a really cool, differentiable, optimizable, efficient computer that you've proposed. And maybe they didn't have all of that foresight, but I think it's really interesting."
+  },
+  {
+    "start": 105.9641638225256,
+    "end": 117.85836177474404,
+    "speaker": "SPEAKER_01",
+    "text": " Isn't it funny? Sorry to interrupt that title is memeable that they went for such a profound idea. They went with the I don't think anyone used that kind of title before, right? Touching is all you need."
+  },
+  {
+    "start": 117.19283276450513,
+    "end": 120.4863481228669,
+    "speaker": "SPEAKER_00",
+    "text": " Touching is all you need. Yes. Like a meme or something. Yeah. Is that it?"
+  },
+  {
+    "start": 119.59897610921503,
+    "end": 126.44197952218431,
+    "speaker": "SPEAKER_01",
+    "text": " Yeah, it's not funny that one like maybe if it was a more serious title, we don't have the impact"
+  },
+  {
+    "start": 126.44197952218431,
+    "end": 132.00511945392492,
+    "speaker": "SPEAKER_00",
+    "text": " Honestly, yeah, there's an element of me that, honestly, agrees with you and prefers it this way. Yes."
+  },
+  {
+    "start": 133.50682593856658,
+    "end": 140.00853242320818,
+    "speaker": "SPEAKER_00",
+    "text": " If it was too grand, it would overpromise and then underdeveloper potentially. So you want to just meme your way to greatness."
+  },
+  {
+    "start": 140.00853242320818,
+    "end": 168.50682593856658,
+    "speaker": "SPEAKER_01",
+    "text": " That should be a t-shirt. So you tweeted the transformers that are magnificent neural network architecture because it is a general purpose differentiable computer. It is simultaneously expressive in the forward pass, optimizable via back propagation gradient descent and efficient high parallelism compute graph. Can you discuss some of those details expressive, optimizable, efficient memory or in general, whatever comes to your heart?"
+  },
+  {
+    "start": 164.7013651877133,
+    "end": 165.9982935153584,
+    "speaker": "SPEAKER_00",
+    "text": " Thank you. From Maria."
+  },
+  {
+    "start": 168.50682593856658,
+    "end": 176.8344709897611,
+    "speaker": "SPEAKER_00",
+    "text": " You want to have a general purpose computer that you can train on arbitrary problems. I'll like to say the task of next work prediction or detecting if there's a cat in a major something like that."
+  },
+  {
+    "start": 177.5,
+    "end": 294.49658703071674,
+    "speaker": "SPEAKER_00",
+    "text": " And you want to train this computer so you want to set its weights. And I think there's a number of design criteria that sort of overlap in the transformer simultaneously that made it very successful. And I think the authors were kind of deliberately trying to make this really powerful architecture. And so in a, basically, it's very powerful in the forward pass because it's able to express very general computation as sort of something that looks like message passing. You have nodes and they all store vectors. And these nodes get to basically look at each other and it's each other's vectors. And they get to communicate and basically nodes get to broadcast. Hey, I'm looking for certain things. And then other nodes get to broadcast. Hey, these are the things I have. Those are the keys in the values. So it's not just attention. Yeah, exactly. Transformers much more than just the attention component that's got many pieces architectural that went into it. The residual connection of the weights arranged. There's a multi-layer perceptron and they're the way it's stacked and so on. But basically there's a message passing scheme where nodes get to look at each other, decide what's interesting and then update each other. And so I think the, when you get to the details of it, I think it's a very expressive function. So it can express lots of different types of algorithms and forward pass. Not only that, but the way it's designed with the residual connections, layer normalizations, the softmatics, attention, everything. It's also optimizable. This is a really big deal because there's lots of computers. There are powerful that you can't optimize or they're not easy to optimize using the techniques that we have, which is backpropocation and grading and send. These are our first order methods, very simple optimizers, really. And so you also need it to be optimizable. And then lastly, you wanted to run efficiently in our hardware. Our hardware is a massive throughput machine, GPUs. They prefer lots of parallelism. So you don't want to do lots of sequential operations. You want to do a lot of operations, seriously. And the transformer is designed with that in mind as well. And so it's designed for our hardware and is designed to both be very expressive in a forward pass, but also very optimizable in the backward pass. And you"
+  },
+  {
+    "start": 294.00170648464166,
+    "end": 307.20989761092153,
+    "speaker": "SPEAKER_01",
+    "text": " And you said that the residual connection support a kind of ability to learn short algorithms fast and first and then gradually extend them longer during training. Yeah. What's the idea of learning short algorithms?"
+  },
+  {
+    "start": 307.3464163822526,
+    "end": 429.49658703071674,
+    "speaker": "SPEAKER_00",
+    "text": " Right. Think of it as a, so basically a transformer is a series of blocks, right? And these blocks have attention and a little more to the upper section. And so you, you go off into a block and you come back to this residual pathway and then you go off and you come back and then you have a number of layers arranged sequentially. And so the way to look at it, I think, is because of the residual pathway in the backward pass, the gradients sort of flow, allowing it uninterrupted because addition distributes the gradient equally to all of its branches. So the gradient from the supervision at the top just floats directly to the first layer. And the all the residual connections are arranged so that in the beginning and during initialization, they contribute nothing to the residual pathway. So what it kind of looks like is imagine the transformer is kind of like a Python function, like a death. And you get to do various kinds of like lines of code. So you have a hundred layers deep transformer, typically they would be much shorter, say 20. So if 20 lines of code, and you can do something in them. And so think of during the optimization, basically what it looks like is first you optimize the first line of code and then the second line of code can kick in and the third line of code can kick in and I kind of feel like because of the residual pathway and the dynamics of the optimization. You can sort of learn a very short algorithm that gets the approximate answer, but then the other layers can sort of kick in and start to create a contribution. And at the end of it, you're optimizing over an algorithm that is 20 lines of code. Except these lines of code are very complex because this entire block of a transformer can do a lot in there. What's really interesting is that this transformer architecture actually has been a remarkably resilient. Basically, the transformer that came out in 2016 is the transformer you would use today, except you reshuffle some delay norms. The relay and normalization has been reshuffle to a pre norm formulation. And so it's been remarkably stable, but there's a lot of bells and whistles that people have attached to and try to improve it. I do think that basically it's a big step in simultaneously optimizing for lots of properties of desirable neural network architecture. And I think that people have been trying to change it, but it's proven remarkably resilient. But I do think that there should be even better architectures potentially."
+  },
+  {
+    "start": 429.49658703071674,
+    "end": 442.8071672354949,
+    "speaker": "SPEAKER_01",
+    "text": " But it's your admire the resilience here. There's something profound about this architecture that at least was a maybe we can everything can be turned into a problem that transformers can solve."
+  },
+  {
+    "start": 432.75597269624575,
+    "end": 433.25085324232083,
+    "speaker": "SPEAKER_00",
+    "text": " advance your"
+  },
+  {
+    "start": 436.32252559726965,
+    "end": 437.5,
+    "speaker": "SPEAKER_00",
+    "text": " So maybe"
+  },
+  {
+    "start": 442.8754266211604,
+    "end": 457.3464163822526,
+    "speaker": "SPEAKER_00",
+    "text": " Currently, that only looks like the transformers taking over AI, and you can feed basically arbitrary problems into it. And it's a general, the Frenchable computer, and it's extremely powerful. And this conversion in AI has been really interesting to watch for me personally."
+  },
+  {
+    "start": 457.5853242320819,
+    "end": 475.50341296928326,
+    "speaker": "SPEAKER_01",
+    "text": " What else do you think could be discovered here about transformers? Like what's the surprising thing or is it a stable? I went a stable place is there something interesting where my discover about transformers like a hot moments maybe has to do with memory Maybe knowledge representation like that stuff"
+  },
+  {
+    "start": 475.50341296928326,
+    "end": 497.7901023890785,
+    "speaker": "SPEAKER_00",
+    "text": " Definitely, the zeitgeist today is just pushing, like basically right now, the zeitgeist is do not touch the transformer, touch everything else. Yes. So people are scaling up the datasets, making them much, much bigger. They're working on the evaluation, making the evaluation much, much bigger. And they're basically keeping the architecture unchanged. And that's how we've, that's the last five years of progress in AI kind of."
+  },
+  {
+    "summary": "The speaker discusses the transformer architecture in deep learning, which they consider to be a beautiful and surprising idea. The transformer architecture is a general-purpose and efficient computer that can process various types of data such as video, images, speech, and text. The speaker mentions that the title of the paper introducing the transformer, \"Attention Is All You Need,\" was underestimated in terms of the impact it would have. The transformer is praised for being expressive, optimizable, and efficient in its memory usage and hardware performance. The architecture's design features, such as attention, residual connections, and layer normalization, contribute to its success. The speaker also explains that the transformer's residual connections allow for the learning of short algorithms during training and the gradual extension of these algorithms. The transformer architecture has been resilient and stable since its introduction in 2016, although there have been attempts to improve it. Currently, the transformer is considered a powerful and versatile tool in AI, able to handle a wide range of problems. The main focus in the field now is scaling up datasets and evaluation rather than altering the architecture itself."
+  }
+]

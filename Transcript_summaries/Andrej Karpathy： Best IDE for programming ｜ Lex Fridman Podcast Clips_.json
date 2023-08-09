@@ -1,0 +1,275 @@
+[
+  {
+    "start": 2.9436860068259385,
+    "end": 17.005119453924916,
+    "speaker": "SPEAKER_00",
+    "text": " What's your computer setup? What's like the perfect, do you, are you somebody that's flexible to no matter what, laptop, four screens? Yeah. Or do you prefer a certain setup that you most productive?"
+  },
+  {
+    "start": 12.107508532423209,
+    "end": 12.482935153583618,
+    "speaker": "SPEAKER_01",
+    "text": " Yeah."
+  },
+  {
+    "start": 17.005119453924916,
+    "end": 27.312286689419796,
+    "speaker": "SPEAKER_01",
+    "text": " I guess the one that I'm familiar with is one large screen, 27 inch and my laptop on the side. What operating system? I do max. That's my primary."
+  },
+  {
+    "start": 27.755972696245735,
+    "end": 29.06996587030717,
+    "speaker": "SPEAKER_00",
+    "text": " for all tasks."
+  },
+  {
+    "start": 29.343003412969285,
+    "end": 34.274744027303754,
+    "speaker": "SPEAKER_01",
+    "text": " I would say OSX, but when you're working on deep learning, everything is Linux. Your SSH into a cluster and you're working remotely."
+  },
+  {
+    "start": 34.97440273037543,
+    "end": 38.267918088737204,
+    "speaker": "SPEAKER_00",
+    "text": " But what about the actual development like they're using the ADE?"
+  },
+  {
+    "start": 37.89249146757679,
+    "end": 52.99488054607508,
+    "speaker": "SPEAKER_01",
+    "text": " So I think a good way is you just run VS code. My favorite error right now on your Mac, but you are actually, you have a remote folder through SSH. So the actual files that you're manipulating are on the cluster somewhere else. So what's the best?"
+  },
+  {
+    "start": 52.99488054607508,
+    "end": 75.0085324232082,
+    "speaker": "SPEAKER_00",
+    "text": " ID, VS code, what else do people, so I use Emax still. Let's go. So it may be cool. I don't know if it's maximum productivity. So what do you recommend in terms of editors? You work the lot of software engineers, editors for Python, C++ machine learning applications."
+  },
+  {
+    "start": 59.63310580204778,
+    "end": 61.22013651877133,
+    "speaker": "SPEAKER_01",
+    "text": " Let's go."
+  },
+  {
+    "start": 75.41808873720137,
+    "end": 87.4146757679181,
+    "speaker": "SPEAKER_01",
+    "text": " I think the current answer is VS code. Currently, I believe that's the best IDE. It's got a huge amount of extensions. It has GitHub Copilot integration, which I think is very valuable."
+  },
+  {
+    "start": 87.46587030716724,
+    "end": 99.49658703071673,
+    "speaker": "SPEAKER_00",
+    "text": " What do you think about the Copaal integration? I was actually, I got to talk a bunch with Guida Ronson, was a creative Python, and he loves Copaal. He like, he programs a lot with it. Yeah."
+  },
+  {
+    "start": 99.00170648464164,
+    "end": 139.00170648464166,
+    "speaker": "SPEAKER_01",
+    "text": " Do you? Yeah, use Copilot. I love it. And it's free for me, but I would pay for it. Yeah, I think it's very good. And the utility that I found with it was, is in, I would say there is a learning curve and you need to figure out when it's helpful and when to pay attention to its outputs and when it's not going to be helpful, where you should not pay attention to it. Because if you're just reading its suggestions all the time, it's not a good way of interacting with it. But I think I was able to sort of mold myself to it. I find it's very helpful. Number one, in copy paste and replace some parts. So I don't, when the pattern is clear, it's really good at completing the pattern. And number two, sometimes it suggests APIs that I'm not aware of. So it tells you about something that you didn't know. So. And that's an opportunity."
+  },
+  {
+    "start": 139.00170648464166,
+    "end": 140.6740614334471,
+    "speaker": "SPEAKER_00",
+    "text": " opportunity to discover and use it."
+  },
+  {
+    "start": 140.179180887372,
+    "end": 152.5,
+    "speaker": "SPEAKER_01",
+    "text": " It's an opportunity to, so I would never take GoPilot code as given. I almost always copy a copyface into a Google search and you see what this function is doing. And then you're like, oh, it's actually actually exactly what I need. Thank you, GoPilot. So you learned something."
+  },
+  {
+    "start": 151.01535836177476,
+    "end": 151.0665529010239,
+    "speaker": "SPEAKER_00",
+    "text": " Thank you."
+  },
+  {
+    "start": 152.5,
+    "end": 169.7013651877133,
+    "speaker": "SPEAKER_00",
+    "text": " So it's in part of search engine, apart maybe getting the exact syntax correctly that once you see it, it's that NP hard thing. Is it once you see it, you know, yes, exactly. It's correct, exactly. You yourself, you can verify efficiently, but you can't generate efficiently."
+  },
+  {
+    "start": 159.6331058020478,
+    "end": 159.8378839590444,
+    "speaker": "SPEAKER_01",
+    "text": " Yeah."
+  },
+  {
+    "start": 165.31569965870307,
+    "end": 166.35665529010242,
+    "speaker": "SPEAKER_01",
+    "text": " You can very strong."
+  },
+  {
+    "start": 169.73549488054607,
+    "end": 186.37372013651878,
+    "speaker": "SPEAKER_01",
+    "text": " And co-pilot really, I mean, it's autopilot for programming, right? And currently is doing the link following, which is like the simple copy paste and sometimes suggest. But over time, it's going to become more and more autonomous. And so the same thing will play out in not just coding, but actually across many, many different things probably."
+  },
+  {
+    "start": 186.42491467576792,
+    "end": 205.45221843003412,
+    "speaker": "SPEAKER_00",
+    "text": " But coding is an important one, right? Writing programs. How do you see the future of that developing the program synthesis, like being able to write programs that are more and more complicated? Because right now, it's human supervised in interesting ways. It feels like the transition will be very painful."
+  },
+  {
+    "start": 206.08361774744026,
+    "end": 217.26109215017067,
+    "speaker": "SPEAKER_01",
+    "text": " My mental model for it is the same thing will happen as with the autopilot. So currently is doing, following is doing some simple stuff. And eventually we'll be doing autonomy and people will have to intervene less and less."
+  },
+  {
+    "start": 217.32935153583617,
+    "end": 234.87201365187713,
+    "speaker": "SPEAKER_00",
+    "text": " and there could be like testing mechanisms. Like if it writes a function and that function looks pretty damn correct, but how do you know it's correct? Because you're like getting lazy and lazy as a programmer. Like your ability to, because like little bugs, but I guess it won't make little."
+  },
+  {
+    "start": 229.88907849829354,
+    "end": 230.16211604095565,
+    "speaker": "SPEAKER_01",
+    "text": " haha"
+  },
+  {
+    "start": 234.54778156996588,
+    "end": 239.9061433447099,
+    "speaker": "SPEAKER_01",
+    "text": " No, it will. It, it, it, Copilot will make off by one subtle bugs. It has done that to me."
+  },
+  {
+    "start": 239.9061433447099,
+    "end": 246.71501706484645,
+    "speaker": "SPEAKER_00",
+    "text": " But do you think future systems will? Or is it really, the off by one, is actually a fundamental challenge of programming?"
+  },
+  {
+    "start": 246.95392491467578,
+    "end": 269.49658703071674,
+    "speaker": "SPEAKER_01",
+    "text": " In that case, it wasn't fundamental and I think things can improve. But I think humans have to supervise. I am nervous about people not supervising what comes out and what happens to, for example, the proliferation of bugs in all of our systems. I am nervous about that, but I think there will probably be some other copilots for bug finding and stuff like that at some point. It will be like a lot more automation for men."
+  },
+  {
+    "start": 269.49658703071674,
+    "end": 281.4590443686007,
+    "speaker": "SPEAKER_00",
+    "text": " It's like a program, a copilot that generates a compiler, one that does a linter, one that does like a type checker. Yeah. Yeah."
+  },
+  {
+    "start": 279.49658703071674,
+    "end": 279.7866894197952,
+    "speaker": "SPEAKER_01",
+    "text": " Yeah."
+  },
+  {
+    "start": 281.4590443686007,
+    "end": 284.49658703071674,
+    "speaker": "SPEAKER_01",
+    "text": " It's a committee of like a GPT sort of like"
+  },
+  {
+    "start": 284.49658703071674,
+    "end": 290.99829351535834,
+    "speaker": "SPEAKER_00",
+    "text": " And then there'll be like a manager for the committee. Yeah. And then there'll be somebody that says a new version of this is needed. We need to regenerate it."
+  },
+  {
+    "start": 289.7013651877133,
+    "end": 289.75255972696243,
+    "speaker": "SPEAKER_01",
+    "text": ""
+  },
+  {
+    "start": 290.99829351535834,
+    "end": 307.1075085324232,
+    "speaker": "SPEAKER_01",
+    "text": " Yeah, there were 10 GPs, they were forwarded and gave 50 suggestions. Another one looked at it and picked a few that they like. A bug one looked at it and it was like it's probably a bug. They got re-ranked by some other thing. And then a final ensemble, GPD comes in and it's like, okay, given everything you guys have told me, this is probably the next token."
+  },
+  {
+    "start": 308.2679180887372,
+    "end": 333.660409556314,
+    "speaker": "SPEAKER_00",
+    "text": " You know, the feeling is the number of programmers in the world has been growing and growing very quickly. Do you think it's possible that it'll actually level out and drop to like a very low number? Well, this kind of world, because then you'll be doing software 2.0 programming. And you'll be doing this kind of generation of co-pilot type systems programming, but you won't be doing the old school software 1.0 programming."
+  },
+  {
+    "start": 334.00170648464166,
+    "end": 337.84129692832767,
+    "speaker": "SPEAKER_01",
+    "text": " I don't currently think that they're just going to replace human programmers."
+  },
+  {
+    "start": 338.9334470989761,
+    "end": 342.9948805460751,
+    "speaker": "SPEAKER_01",
+    "text": " I'm so hesitant saying stuff like this, right? Because this is going to be a"
+  },
+  {
+    "start": 342.9948805460751,
+    "end": 362.0051194539249,
+    "speaker": "SPEAKER_00",
+    "text": " We were playing in five years. I mean, no, it's going to show that, like, this is where we thought, because I agree with you, but I think we might be very surprised, right? Like, what are the next, what's your sense of where we stand with language models? Like, does it feel like the beginning or the middle or the end?"
+  },
+  {
+    "start": 362.0051194539249,
+    "end": 395.7935153583618,
+    "speaker": "SPEAKER_01",
+    "text": " the beginning, 100%. I think the big question in my mind is, for sure, GPT will be able to program quite well, competently and so on. How do you steer the system? You still have to provide some guidance to what you actually are looking for. And so how do you steer it? And how do you say, how do you talk to it? How do you audit it and verify that what is done is correct? And how do you work with this? And it's as much, not just an AI problem, but a UI UX problem. Yeah. So beautiful fertile ground for so much interesting work for VS Code++, where you're not just just not just assuming programming anymore. It's amazing."
+  },
+  {
+    "start": 395.89590443686006,
+    "end": 409.25767918088735,
+    "speaker": "SPEAKER_00",
+    "text": " Yeah, so you're interacting with the system. So not just one prompt, but it iterated prompting. Yeah, you're trying to figure out having a conversation with the system. Yeah. That actually, I mean, to me, that's super exciting to have a conversation with the program I'm running."
+  },
+  {
+    "start": 408.7798634812287,
+    "end": 409.1211604095563,
+    "speaker": "SPEAKER_01",
+    "text": " Yeah."
+  },
+  {
+    "start": 409.9744027303754,
+    "end": 417.9266211604096,
+    "speaker": "SPEAKER_01",
+    "text": " Yeah, maybe at some point you're just conversing with it. It's like, okay, here's what I want to do. Actually, this variable, maybe it's not even that level is variable, but."
+  },
+  {
+    "start": 417.9266211604096,
+    "end": 446.8515358361775,
+    "speaker": "SPEAKER_00",
+    "text": " You can also imagine like, can you translate this to C++ and back to Python and back to it? Yeah, I don't know, already kind of existence. No, but just like doing it as part of the program experience, like, I think I'd like to write this function as C++ or like, you just keep changing for different programs because the different syntax, maybe I want to convert this into a functional language. Yeah. And so like, you get to become multilingual as a programmer and dance back and forth efficiently. Yeah."
+  },
+  {
+    "start": 423.1143344709898,
+    "end": 423.76279863481227,
+    "speaker": "SPEAKER_01",
+    "text": " Yeah, I'm ready."
+  },
+  {
+    "start": 430.8788395904437,
+    "end": 431.11774744027304,
+    "speaker": "SPEAKER_01",
+    "text": " Hmm."
+  },
+  {
+    "start": 434.76962457337885,
+    "end": 434.8720136518771,
+    "speaker": "SPEAKER_01",
+    "text": " Yeah."
+  },
+  {
+    "start": 447.141638225256,
+    "end": 476.8856655290102,
+    "speaker": "SPEAKER_01",
+    "text": " I mean, I think the UI X of it though is still very hard to think through because it's not just about writing code on a page. You have an entire developer environment. You have a bunch of hardware on it. You have some environmental variables. You have some scripts that are running in a Chrome job. There's a lot going on to working with computers and how do these systems set up environment flags and work across multiple machines and set up screen sessions and automate different processes like how all that works and is auditable by humans and so on is massive question by kids."
+  },
+  {
+    "summary": "The conversation is about computer setups and programming tools. The speakers discuss their preferred computer setups, with one person using a large screen and a laptop, primarily using macOS for all tasks. They also discuss using VS Code as an IDE, with one person recommending it as the best IDE for software engineering and machine learning applications. The conversation then focuses on GitHub Copilot, which both speakers find useful for code completion and discovering new APIs. They emphasize the need for human supervision and verification when using Copilot-generated code. The speakers also discuss the future of programming, with the possibility of more automated systems and the development of programming copilots for bug finding and other tasks. They speculate on the potential impact of language models like GPT and the challenges of steering and verifying the output. The conversation concludes with a discussion on the future of programming, including the potential for conversational interfaces and multilingual programming abilities. The speakers acknowledge the complexity of UI/UX in programming environments and the need for auditing and managing system interactions and environments."
+  }
+]

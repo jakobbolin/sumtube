@@ -1,0 +1,203 @@
+[
+  {
+    "start": 3.0290102389078504,
+    "end": 119.39419795221843,
+    "speaker": "SPEAKER_01",
+    "text": " So for example, here's an example of a thing that I realized. So one of the surprising things about, well, the two surprising facts about math, one is that it's hard, and the other is that it's doable. So first question is, why is math hard? You've got these axioms, they're very small. Why can't you just solve every problem in math easily? It's just logic. Right. Well, logic happens to be a particular special case that does have certain simplicity to it. But general mathematics, even arithmetic, already doesn't have the simplicity that logic has. So why is it hard? Because of computational irreducibility. Right. Because what happens is to know what's true, and this is this whole story about the path you have to follow and how long is the path? And go to the theorem is the statement that could be an inf, that the path is not a bounded length. But the fact that the path is not always compressible to something tiny is a story of computational irreducibility. So that's why math is hard. Now the next question is, why is math doable? Because it might be the case that most things you care about don't have finite length paths. Most things you care about might be things where you get lost in the sea of computational irreducibility and worse undecidability. That is just no finite length path that gets you there. Why is mathematics doable? Gurdle proved his incompleteness theorem in 1931. Most working mathematicians don't really care about it. They just go ahead and do mathematics. Even though it could be that the questions they're asking are undecidable, it could have been that Fermat's last theorem is undecidable. It turned out it had a proof. It's a long complicated proof. The twin prime conjecture might be undecidable. The Riemann hypothesis might be undecidable. These things might be the axioms of mathematics might not be strong enough to reach those statements. It might be the case that depending on what axioms you choose, you can either say that's true or that's not true."
+  },
+  {
+    "start": 3.233788395904437,
+    "end": 3.2849829351535833,
+    "speaker": "SPEAKER_00",
+    "text": ""
+  },
+  {
+    "start": 119.39419795221843,
+    "end": 123.64334470989762,
+    "speaker": "SPEAKER_00",
+    "text": " So, and by the way, from our last theorem, there could be a shorter path."
+  },
+  {
+    "start": 123.64334470989762,
+    "end": 157.5,
+    "speaker": "SPEAKER_01",
+    "text": " Absolutely. Yeah, so the notion of GD6 in metamathematical space is the notion of shortest proofs in metamathematical space. And that's a, you know, human mathematicians do not find shortest paths, nor do automated theorem-proofers. But the fact, and by the way, the, I mean, this stuff is so bizarrely connected. I mean, if you're into automated theorem-proofing, there are the so-called critical pair lemurs and automated theorem-proofing. Those are precisely the branch pairs in our, that in multi-aigraphs. Let me just finish on the Y mathematics is doable."
+  },
+  {
+    "start": 157.5,
+    "end": 161.2542662116041,
+    "speaker": "SPEAKER_00",
+    "text": " Oh yes, the second part. So we should know why it's hard. Why is it doable?"
+  },
+  {
+    "start": 158.69453924914677,
+    "end": 159.46245733788396,
+    "speaker": "SPEAKER_01",
+    "text": " Right."
+  },
+  {
+    "start": 161.2542662116041,
+    "end": 267.9607508532423,
+    "speaker": "SPEAKER_01",
+    "text": " Right, why do we not just get lost and undecide about it all the time? Yeah. So, and here's another fact, is in doing computer experiments and doing experimental mathematics, you do get lost in that way. When you just say, I'm picking a random integer equation, how do I, does it have a solution or not? And you just pick it at random without any human sort of path getting there. Often, it's really, really hard. It's really hard to answer those questions. We can just pick them up random from the space of possibilities. But what I think is happening is, and that's a case where you just fell off into this ocean of sort of irreducibility and so on. What's happening is, human mathematics is a story of building a path. You started off, you're always building out on this path where you are proving things. You've got this proof trajectory, and you're basically, the human mathematics is the sort of the exploration of the world along this proof trajectory, so to speak. You're not just parachuting in from anywhere, you're following Lewis and Clark or whatever. You're actually going, you're doing the path. And the fact that you are constrained to go along that path is the reason you don't end up with. Every so often, you'll see a little piece of undecidability and you'll avoid that part of the path. But that's basically the story of why human mathematics has seemed to be doable. It's a story of exploring these paths that are by their nature, they have been constructed to be paths that can be followed, and so you can follow them further. Now, why is this relevant to anything? So, okay, so here's my belief. The fact that human mathematics works that way is"
+  },
+  {
+    "start": 268.5580204778157,
+    "end": 293.48976109215016,
+    "speaker": "SPEAKER_01",
+    "text": " I think there's some sort of connections between the way that observers work in physics and the way that the axiom systems and mathematics are set up to make mathematics be doable in that kind of way. And so in other words, in particular, I think there is an analog of causal invariance, which I think is, and this is again, it's sort of the upper reaches of mathematics and stuff that are..."
+  },
+  {
+    "start": 294.3600682593857,
+    "end": 321.4931740614334,
+    "speaker": "SPEAKER_01",
+    "text": " It's a thing, there's this thing called homotopy type theory, which is an abstract, it came out of category theory and it's sort of an abstraction of mathematics. Mathematics itself is an abstraction, but it's an abstraction of the abstraction of mathematics. And there is a thing called the Univalence Axiom, which is a sort of a key axiom in that set of ideas. And I'm pretty sure the Univalence Axiom is equivalent to causal invariance. What was the term?"
+  },
+  {
+    "start": 320.99829351535834,
+    "end": 327.0051194539249,
+    "speaker": "SPEAKER_00",
+    "text": " What was the term used again? Univalence. Is that something for somebody like me accessible?"
+  },
+  {
+    "start": 322.6877133105802,
+    "end": 323.1996587030717,
+    "speaker": "SPEAKER_01",
+    "text": " Univail."
+  },
+  {
+    "start": 326.6808873720137,
+    "end": 332.6194539249147,
+    "speaker": "SPEAKER_01",
+    "text": " Or is this there's a statement of it that's fairly accessible. I mean the statement of it is"
+  },
+  {
+    "start": 334.3259385665529,
+    "end": 339.2064846416382,
+    "speaker": "SPEAKER_01",
+    "text": " Basically, it says things which are equivalent can be considered to be identical."
+  },
+  {
+    "start": 340.0938566552901,
+    "end": 342.6877133105802,
+    "speaker": "SPEAKER_00",
+    "text": " in which space."
+  },
+  {
+    "start": 342.6877133105802,
+    "end": 345.31569965870307,
+    "speaker": "SPEAKER_01",
+    "text": " Yeah, it's an in higher category."
+  },
+  {
+    "start": 345.04266211604096,
+    "end": 347.48293515358364,
+    "speaker": "SPEAKER_00",
+    "text": " and categorically."
+  },
+  {
+    "start": 346.2713310580205,
+    "end": 405.759385665529,
+    "speaker": "SPEAKER_01",
+    "text": " OK, so it's a, it's a, but I mean, the thing just to give a sketch of how that works. So category theory is an attempt to idealize, it's an attempt to sort of have a formal theory of mathematics that is at a sort of higher level than mathematics. It's where, well, you just think about these mathematical objects and these categories of objects and these, these morphisms, these connections between categories. OK, so it turns out the morphisms and categories, at least weak categories, are very much like the paths in our hypergraphs and things. And it turns out, again, this is, this is where it all gets, gets crazy. I mean, it's, it's the fact that these things are connected, it's just bizarre. So category theory, the, our causal graphs are like second order category theory. And it turns out you can take the limits of infinite order category theory. So just, just give roughly, roughly the idea. This is a, this is a roughly explainable idea. So a mathematical proof."
+  },
+  {
+    "start": 406.51023890784984,
+    "end": 429.9914675767918,
+    "speaker": "SPEAKER_01",
+    "text": " will be a path that says you can get from this thing to this other thing. And here's the path that you get from this thing to this other thing. But in general there may be many paths, many proofs that get you many different paths that all successfully go from this thing to this other thing. Now you can define a higher order proof, which is a proof of the equivalence of those proofs. So you're saying there's a, there goes"
+  },
+  {
+    "start": 429.9914675767918,
+    "end": 431.69795221843003,
+    "speaker": "SPEAKER_00",
+    "text": " path between those proofs essentially."
+  },
+  {
+    "start": 431.69795221843003,
+    "end": 442.0392491467577,
+    "speaker": "SPEAKER_01",
+    "text": " Yes, the path between the paths. Yeah. And so you do that. That's the second order thing. That path between the paths is essentially related to our causal graphs."
+  },
+  {
+    "start": 442.7901023890785,
+    "end": 452.48293515358364,
+    "speaker": "SPEAKER_01",
+    "text": " Ah, wow. Okay. Part between, part between, part between, part. The infinite limit, that infinite limit turns out to be our Ruleal Multiway system."
+  },
+  {
+    "start": 442.82423208191125,
+    "end": 445.26450511945393,
+    "speaker": "SPEAKER_00",
+    "text": " Oh wow, okay"
+  },
+  {
+    "start": 453.33617747440275,
+    "end": 465.3839590443686,
+    "speaker": "SPEAKER_00",
+    "text": " Yeah, the Rulio Multiway system, that's a fascinating, both in the physics world and as you're saying, yeah, yeah, that's that's so okay. Not sure I've loaded it all in completely, but well, I'm not sure I have either and it may be one."
+  },
+  {
+    "start": 459.46245733788396,
+    "end": 461.2713310580205,
+    "speaker": "SPEAKER_01",
+    "text": " Yeah, that's that's so so"
+  },
+  {
+    "start": 463.6262798634812,
+    "end": 551.7150170648464,
+    "speaker": "SPEAKER_01",
+    "text": " Well, I'm not sure I have either. And it may be one of these things where, you know, in another five years or something, it's like, this was obvious, but I didn't see it. Now, but the thing which is sort of interesting to me is that there's sort of an upper reach of mathematics, of the abstraction of mathematics. This thing, there's this mathematician called Growth Indique who's generally viewed as being sort of one of the most abstract sort of creator of the most abstract mathematics of 1970s-ish timeframe. And one of the things that he constructed with this thing, he called the Infinity Group Boyd. And he has this sort of hypothesis about the inevitable appearance of geometry from essentially logic in the structure of this thing. Well, it turns out this Rulliel Multisystem is the Infinity Group Boyd. So it's this limiting object, and this is an instance of that limiting object. So what to me is, I mean, again, I've been always afraid of this kind of mathematics because it seemed incomprehensibly abstract to me. But what I'm sort of excited about with this is that we've sort of concretified the way that you can reach this kind of mathematics, which makes it, well, both seem more relevant and also the fact that that, I don't yet know exactly what mileage we're gonna get from using the sort of the apparatus that's been built in, those areas of mathematics to analyze what we're doing. But the thing that..."
+  },
+  {
+    "start": 551.7150170648464,
+    "end": 557.8412969283277,
+    "speaker": "SPEAKER_00",
+    "text": " So both ways, so using mathematics and understand what you're doing and using right so you're doing computationally to understand that right"
+  },
+  {
+    "start": 552.9778156996587,
+    "end": 553.4556313993174,
+    "speaker": "SPEAKER_01",
+    "text": " Yeah, right."
+  },
+  {
+    "start": 555.3498293515358,
+    "end": 555.8788395904437,
+    "speaker": "SPEAKER_01",
+    "text": " Right."
+  },
+  {
+    "start": 557.5,
+    "end": 621.0153583617747,
+    "speaker": "SPEAKER_01",
+    "text": " Right. So for example, the understanding of metamathematical space, one of the reasons I really want to do that is because I want to understand quantum mechanics better. And that, what you see, you know, we live that kind of the multi-way graph of mathematics, because we actually know this is a theorem we've heard of, this is another one we've heard of, we can actually say these are actual things in the world that we relate to, which we can't really do as readily for the physics case. And so it's kind of a way to help my intuition. It's also, you know, there are bizarre things like what's the analog of Einstein's equations in metamathematical space? What's the analog of a black hole? You know, it turns out it looks like not completely sure yet, but there's this notion of non-constructive proofs in mathematics. And I think those relate to, well, actually, they relate to things and relate to event horizons. So the fact that you can take ideas from physics like event horizons. In the map moment to the same kind of space."
+  },
+  {
+    "start": 619.0529010238907,
+    "end": 633.4556313993174,
+    "speaker": "SPEAKER_00",
+    "text": " map them into the same kind of space. Mademoiselle, do you think you might stumble upon some breakthrough ideas in theorem proving like for the other direction?"
+  },
+  {
+    "start": 633.2849829351536,
+    "end": 642.7389078498294,
+    "speaker": "SPEAKER_01",
+    "text": " Yeah, yeah, yeah. No, I mean, what's really nice is that we are using. So this, this absolutely directly maps to theorem proving. So paths and multi weg graphs, that's what a theorem proving."
+  },
+  {
+    "start": 642.6706484641638,
+    "end": 645.3668941979522,
+    "speaker": "SPEAKER_00",
+    "text": " but I also mean like automated."
+  },
+  {
+    "start": 645.3498293515358,
+    "end": 700.486348122867,
+    "speaker": "SPEAKER_01",
+    "text": " Yeah, yeah, that's what, right. So the finding of paths, the finding of shortest paths or finding of paths at all is what automated theorem Proofers do and actually what we've been doing. So we've actually been using automated theorem proving both in the physics project to prove things and using that as a way to understand multiway graphs. And because what an automated theorem Proofer is doing is it's trying to find a path through a multiway graph. And its critical pair lemurs are precisely little stubs of branch pairs going off into branchial space. And that's, I mean, it's really weird. You know, we have these visualizations in more than language of our proof graphs from our automated theorem proving system. And they look reminiscent of the... Well, it's just bizarre because we made these up a few years ago and they have these little triangle things and they are, we didn't quite get it right. We didn't quite get the analogy perfectly right, but it's very close."
+  },
+  {
+    "summary": "The speaker discusses why mathematics is both hard and doable. They mention that mathematics is hard because of computational irreducibility, which means that finding the truth in math requires following a path that is not always easy or compressible. However, math is doable because most things in math can be explored along a constructed path, allowing for progress and finding proofs. The speaker also suggests that there may be connections between the way observers work in physics and the way axiom systems in mathematics are set up to make mathematics doable. They mention the Univalence Axiom in homotopy type theory as potentially being equivalent to causal invariance. There is a discussion about category theory and its relationship to paths in hypergraphs, and the speaker explains how higher order proofs and paths between paths relate to causal graphs. The speaker also mentions that understanding metamathematical space can help in understanding quantum mechanics. They suggest that the apparatus built in areas of mathematics can be used to analyze what they are doing computationally, and there may be connections between non-constructive proofs in mathematics and event horizons. The speaker concludes by mentioning the use of automated theorem proving and the resemblance of their proof graphs to visualizations in language."
+  }
+]

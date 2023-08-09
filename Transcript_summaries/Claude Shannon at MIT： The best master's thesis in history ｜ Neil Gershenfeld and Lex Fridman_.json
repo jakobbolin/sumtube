@@ -1,0 +1,83 @@
+[
+  {
+    "start": 3.1655290102389078,
+    "end": 36.20307167235495,
+    "speaker": "SPEAKER_00",
+    "text": " What are some of the biggest stuff you attempted to explore how to build in a lab? Sure. So viewed from one direction, what we're talking about is a crazy random seeming of almost unrelated projects. But if you rotate 90 degrees, it's really just a core thought over and over again, just very literally how bits and atoms relate, how digital, and it's just going from digital to physical in many different domains. But it's really just the same idea over and over again. So to understand the biggest things,"
+  },
+  {
+    "start": 36.88566552901024,
+    "end": 48.60921501706484,
+    "speaker": "SPEAKER_00",
+    "text": " Let me go back to bringing now Shannon as well as a Vanoiman. Yeah, so what is digital?"
+  },
+  {
+    "start": 45.29863481228669,
+    "end": 45.4863481228669,
+    "speaker": "SPEAKER_01",
+    "text": " Yeah."
+  },
+  {
+    "start": 49.87201365187714,
+    "end": 57.31228668941979,
+    "speaker": "SPEAKER_00",
+    "text": " The casual obvious answer is digital in 1 and 0, but that's wrong. There's a much deeper answer, which is..."
+  },
+  {
+    "start": 58.762798634812285,
+    "end": 106.91979522184302,
+    "speaker": "SPEAKER_00",
+    "text": " Claude Shannon at MIT wrote the best master thesis ever. In his master's thesis, he invented our modern notion of digital logic, where it came from was Vanever Bush, was a grand old man at MIT. He created the post-war research establishment that led to the National Science Foundation. And he made an important mistake, which we can talk about. But he also made the differential analyzer, which was the last grade analog computer. So it was a room full of gears and pulleys, and the longer it ran, the worse the answer was. And Shannon worked on it as a student, and he got so annoyed in his master's thesis he invented digital logic. But he then went on to Bell Labs. And what he did there was,"
+  },
+  {
+    "start": 107.58532423208192,
+    "end": 120.12798634812287,
+    "speaker": "SPEAKER_00",
+    "text": " Communication was beginning to expand. There was more demand for phone lines. And so there's a question about how many phone lines, you could phone messages you could send down a wire."
+  },
+  {
+    "start": 120.82764505119455,
+    "end": 151.4590443686007,
+    "speaker": "SPEAKER_00",
+    "text": " And you could try to just make it better and better. He asked a question nobody had asked, which is rather than make it better and better, what's the limit to how good it can be? And he proved a couple things, but one of the main things he proved was a threshold theorem for channel capacity. And so what he showed was, my voice to you right now is coming as a wave through sound. And the further you get the worse it sounds, but people watching this are getting it as in from packets of data in a network."
+  },
+  {
+    "start": 152.26109215017067,
+    "end": 201.8515358361775,
+    "speaker": "SPEAKER_00",
+    "text": " When the computer, they're watching this gets the packet of information, it can detect and correct an error. And what Shannon showed is if the noise in the cable to the people watching this is above a threshold they're doomed. But if the noise is below a threshold for a linear increase in the energy representing our conversation, the error rate goes down exponentially. Those are fast. There's very few of them in engineering. And the exponential reduction of error below a threshold if you restore state is called a threshold theorem. That's what led to digital. That means unreliable things can work reliably. So Shannon did that for communication. Then Van Neumann"
+  },
+  {
+    "start": 202.5,
+    "end": 291.51023890784984,
+    "speaker": "SPEAKER_00",
+    "text": " was inspired by that and applied it to computation. And he showed how an unreliable computer can operate reliably by using the same threshold property of restoring state. It was then forgotten many years. We had to rediscover it in effect in the quantum computing era when things are very unreliable again. But now to go back to how does this relate to the biggest things I've made? So in fabrication, MIT invented computer-controlled manufacturing in 1952. Jet aircraft were just emerging. There was a limit to turning cranks on a machine, on a milling machine, to make parts for jet aircraft. Now, this is a messy story. MIT actually stole computer-controlled machining from an inventor who brought it to MIT, wanted to do a joint project with the Air Force, and MIT effectively stole it from him. So it's kind of a messy history. But that sounds like the birth of computer-controlled machining, 1952. There are a number of inventors of 3D printing. One of the companies spun off from my lab by Max Labowski's Forum Labs, which is now a billion-dollar 3D printing company. That's the modern version. But all of that's analog, meaning the information is in the control computer. There's no information in the materials. And so it goes back to Vanever Bush's analog computer if you make a mistake in printing or machining just the mistake accumulates."
+  },
+  {
+    "start": 292.3122866894198,
+    "end": 305.74232081911265,
+    "speaker": "SPEAKER_00",
+    "text": " The real birth of computerized, digital manufacturing is four billion years ago. That's the evolutionary age of the ribosome. So the way you're manufactured."
+  },
+  {
+    "start": 306.47610921501706,
+    "end": 321.86860068259386,
+    "speaker": "SPEAKER_00",
+    "text": " is there's a code that describes you, the genetic code. It goes to a micro machine, the ribosome, which is this molecular factory that builds the molecules that are you."
+  },
+  {
+    "start": 322.6877133105802,
+    "end": 412.27815699658703,
+    "speaker": "SPEAKER_00",
+    "text": " The key thing to know about that is there are about 20 amino acids that get assembled. In that machinery, it does everything Shannon and Vanuay mentaadas, you detect and correct errors. If you mix chemicals, the error rate is about a part in 100. When you make elongated protein in the ribosome, it's about a part in 10 to the four. When you replicate DNA, there's an extra level of error correction. It's a part in 10 to the eight. In the molecules that make you, you can detect and correct errors, and you don't need a ruler to make you. The geometry comes from your parts. Now compare a child playing with Lego and a state of the art 3D printer or computerized milling machine. The tower made by a child is more accurate than their motor control because the act of snapping the bricks together gives you a constraint on the joints. You can join bricks made out of dissimilar materials. You don't need a ruler for Lego because the geometry locally gives you the global parts. There's no Lego trash. The parts have enough information to disassemble them. Those are exactly the properties of a digital code. The unreliable is made reliable. Yes, absolutely. What the ribosome figured out four billion years ago is how to embody these digital properties, but not for communication or computation."
+  },
+  {
+    "start": 412.9266211604096,
+    "end": 438.72866894197955,
+    "speaker": "SPEAKER_00",
+    "text": " in effect, but for construction. So a number of projects in my lab have been studying the idea of digital materials. And think of a digital material just as Lego bricks. The precise meaning is a discrete set of parts reversibly joined with global geometry determined from local constraints. And so it's digitizing the materials."
+  },
+  {
+    "summary": "The speaker discusses the concept of digital versus analog and the connection between bits and atoms, or how digital and physical elements relate. They mention Claude Shannon and his master thesis on digital logic and how it paved the way for modern communication and computation. They also mention Vannevar Bush and his work on the analog computer, which led to the invention of digital logic by Shannon. Shannon's threshold theorem for channel capacity, which showed how unreliable things can work reliably, is highlighted. The speaker then goes on to discuss the birth of computer-controlled machining and 3D printing, emphasizing the difference between analog and digital manufacturing. They explain that the real birth of digital manufacturing dates back four billion years to the ribosome, which uses a genetic code and molecular processes to assemble molecules accurately and with error correction. This concept of embodying digital properties in construction is referred to as digital materials and is compared to Lego bricks, where the global geometry is determined by local constraints. The speaker mentions that their lab has worked on projects related to digital materials and digitizing materials."
+  }
+]

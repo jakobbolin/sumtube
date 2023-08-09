@@ -1,0 +1,101 @@
+[
+  {
+    "start": 2.9436860068259385,
+    "end": 10.930034129692833,
+    "speaker": "SPEAKER_01",
+    "text": " Is there a connection to the second law of thermodynamics and cellular automata? Oh, yes. So the things you've discovered about cellular automata."
+  },
+  {
+    "start": 8.575085324232083,
+    "end": 8.967576791808874,
+    "speaker": "SPEAKER_00",
+    "text": " The things"
+  },
+  {
+    "start": 10.930034129692833,
+    "end": 161.78327645051195,
+    "speaker": "SPEAKER_00",
+    "text": " Yes. Okay. So when I first started selling cellular automata, my first papers about them were, you know, the first sentence was always about the second row of thermodynamics. It was always about how does order manage to be produced even though there's a second row of thermodynamics which tries to pull things back into disorder. And I kind of my early understanding of that had to do with these are intrinsically irreversible processes in cellular automata that form, can form orderly structures even from random initial conditions. But then what I realized this was, well, actually, it's one of these things where it was a discovery that I should have made earlier, but didn't. So, you know, I had been studying cellular automata. What I did was the sort of most obvious computer experiment. You just trial the different rules and see what they do. It's kind of like, you know, you've invented a computational telescope, you just pointed at the most obvious thing in the sky and they just see what's there. And so I did that and I, you know, was making all these pictures of how cellular automata work. And I started these pictures. I started in great detail. There was, you can number the rules for cellular automata and one of them is, you know, rule 30. So I made a picture of rule 30 back in 1981 or so. And rule 30, well, it's, and at the time, I was just like, okay, it's another one of these rules. I don't really, it happens to be asymmetric, left-right asymmetric. And it's like, let me just consider the case of the symmetric ones, just to keep things simpler, etc, etc, etc. And I just kind of ignored it. And then, sort of in, actually in 1984, strangely enough, I ended up having an early laser printer, which made very high-resolution pictures. And I thought, I'm going to print out an interesting, you know, I want to make an interesting picture. Let me take this rule 30 thing and just make a high-resolution picture of it. I did. And it's, it has this very remarkable property that it's rule is very simple. You started off just from one black cell at the top. And it makes this kind of triangular pattern. But if you look inside this pattern, it looks really random. There's, you know, you look at the center column of cells. And, you know, I studied that in great detail. And it's so far as one can tell, it's completely random. And it's kind of a little bit like digits of pi. Once you, you know, you know, the rule for generating the digits of pi. But once you've generated them, you know, 3.14159, etc., they seem completely random. And in fact, I put up this prize back in, what was it, 2019 or something, for proof anything about the sequence, basically."
+  },
+  {
+    "start": 100.65699658703072,
+    "end": 101.03242320819113,
+    "speaker": "SPEAKER_01",
+    "text": " Yeah."
+  },
+  {
+    "start": 161.78327645051195,
+    "end": 163.25085324232083,
+    "speaker": "SPEAKER_01",
+    "text": " I'm going to be able to do anything on that."
+  },
+  {
+    "start": 163.37030716723552,
+    "end": 210.96416382252562,
+    "speaker": "SPEAKER_00",
+    "text": " People have sent me some things, but it's, you know, I don't know how these problems are. I mean, I, it's kind of spoiled because I 2007, I put up a prize for determining whether a particular touring machine that I thought was the simplest candidate for being a universal touring machine, determine whether it is or isn't a universal touring machine. And somebody did a really good job of, of winning that prize and proving that it was a universal touring machine in about six months. And so I, you know, I didn't know whether that would be one of these problems that was out there for hundreds of years, or whether in this particular case, young chap called Alex Smith, you know, nailed it in six months. And so with this little 30 collection, I don't really know whether these are things that are a hundred years away from being able to get, or whether somebody's going to come and do something very clever."
+  },
+  {
+    "start": 210.96416382252562,
+    "end": 234.00170648464166,
+    "speaker": "SPEAKER_01",
+    "text": " It's such a, I mean, it's like a from our last theorem. It's such a rule 30 such a simple formulation. It feels like anyone can look at it, understand it. Yeah. I feel like it's within grass to to be able to predict something to do to to derive some kind of law. Right. It allows you to predict something about this middle column of rule 30. Right."
+  },
+  {
+    "start": 226.2542662116041,
+    "end": 226.49317406143348,
+    "speaker": "SPEAKER_00",
+    "text": " the rest."
+  },
+  {
+    "start": 232.82423208191125,
+    "end": 233.1655290102389,
+    "speaker": "SPEAKER_00",
+    "text": " 30."
+  },
+  {
+    "start": 234.00170648464166,
+    "end": 386.6126279863481,
+    "speaker": "SPEAKER_00",
+    "text": " But you know, this is, this is the intuition or surprise of computational irreducibility and so on, that even though the rules are simple, you can't tell what's going to happen and you can't prove things about it. And I think so, so anyway, the thing I started in 1984 or so, I started realizing there's this phenomenon that you can have very simple rules, they produce apparently random behavior. Okay, so that's a little bit like the second or the third dynamics because it's like you have this simple initial condition, you can, you know, readily see that it's very, you know, you can describe it very easily and yet it makes this thing that seems to be random. Now, turns out there's some technical detail about the second or the third dynamics and about the idea of reversibility when you have a, if you have kind of a, a, a, a movie of two, you know, Billy at Balls colliding and you see them collide and they bounce off and you run that movie in reverse, you can't tell which way was the forward direction of time or which way was the backward direction of time when you're just looking at individual Billy at Balls. By the time you've got a whole collection of them, you know, a million of them or something, then it turns out to be the case and this is the sort of the, the mystery of the second law that the orderly thing you start with, the orderly thing and it becomes disordered and that's the forward direction in time and the other way round of it starts disordered and it becomes ordered, you just don't see that in the world. Now, in principle, if you, you know, if you sort of traced the detailed motions of all those molecules backwards, you would be able to, it will, it will, the reverse of time makes, you know, as you, as you go forwards in time, order goes to disorder, as you go backwards in time, order goes to disorder. Perfectly so, yes. Right. So the, the mystery is, why is it the case that, or one version of the mystery is, why is it the case that you never see something which happens to be just the kind of disorder that you would need to somehow evolve to order? Why does that not happen? Why do you always just see order goes to disorder, not the other way round? So the thing that I, I kind of realized, I started realizing in the 1980s, it's kind of like, it's a bit like cryptography. It's kind of like, you start off from this, this key that's pretty simple and then you kind of run it and you can get this, you know, complicated random mess and the thing that, that, um,"
+  },
+  {
+    "start": 235.0255972696246,
+    "end": 236.22013651877137,
+    "speaker": "SPEAKER_01",
+    "text": " Yeah, you can't."
+  },
+  {
+    "start": 383.1996587030717,
+    "end": 383.3532423208191,
+    "speaker": "SPEAKER_01",
+    "text": " mm-hmm"
+  },
+  {
+    "start": 387.44880546075086,
+    "end": 495.53754266211604,
+    "speaker": "SPEAKER_00",
+    "text": " Well, I sort of started realizing back then was that the second law is kind of a story of computational irreducibility. It's a story of what seems, what we can describe easily at the beginning, we can only describe with a lot of computational effort at the end. Okay. We come many, many years later and I was trying to sort of, well, having done this big project to understand fundamental physics, I realized that sort of a key aspect of that is understanding what observers are like. And then I realized that the second law of thermodynamics is the same story as a bunch of these other cases. It is a story of a computationally bounded observer trying to observe a computationally irreducible system. So it's a story of, you know, underneath the molecules are bouncing around. They're bouncing around in this completely determined way, determined by rules. But the point is that we, as computationally bounded observers, can't tell that there were these sort of simple underlying rules to us, it just looks random. And when it comes to this question about, can you prepare the initial state so that, you know, the disordered thing is, you know, how exactly the right disorder to make something orderly, a computationally bounded observer cannot do that. We'd have to have done all of this sort of irreducible computation to work out very precisely what this disordered state, what the exact right disordered state is so that we would get this ordered thing produced from it."
+  },
+  {
+    "start": 495.53754266211604,
+    "end": 505.82764505119457,
+    "speaker": "SPEAKER_01",
+    "text": " What does it mean to be computationally bounded observer? So observing a computationary, reducible system. So the computationally bounded, is there something formal you can say there?"
+  },
+  {
+    "start": 505.81058020477815,
+    "end": 603.6433447098976,
+    "speaker": "SPEAKER_00",
+    "text": " Right. So it means, okay, you can talk about turning machines, you can talk about computational complexity theory and, you know, polynomial time computation and things like this. There are a variety of ways to make something more precise, but I think it's more useful. The intuitive version of it is more useful, which is basically just to say that, you know, how much computation are you going to do to try and work out what's going on? And the answer is, you're not allowed to do a lot of... We're not able to do a lot of computation. When we, you know, we've got, you know, in this room, there will be a trillion, trillion, trillion molecules, a little bit less. It's a big room. Right. And, you know, at every moment, you know, there are every microsecond or something, these molecules, molecules are colliding, and that's a lot of computation that's getting done. And the question is, in our brains, we do a lot less computation every second than the computation done by all those molecules. If there is computational irreducibility, we can't work out in detail what all those molecules are going to do. What we can do is only a much smaller amount of computation. And so, the second law of thermodynamics is this kind of interplay between the underlying computational irreducibility, and the fact that we, as preparers of initial states or as measures of what happens, are, you know, are not capable of doing that much computation. So, to us, another big formulation of the second law of thermodynamics is this idea of the law of entropy increase."
+  },
+  {
+    "start": 603.6433447098976,
+    "end": 608.0460750853242,
+    "speaker": "SPEAKER_01",
+    "text": " The characteristic that this universe the ancient species to be always increasing."
+  },
+  {
+    "summary": "The conversation discusses the connection between the second law of thermodynamics and cellular automata. The speaker talks about their early understanding of how order can be produced in cellular automata despite the second law of thermodynamics, and they specifically mention \"rule 30\" as an example. They highlight that rule 30 has a simple rule but produces apparently random behavior. The speaker also mentions their prize for proof regarding the sequence generated by rule 30. The conversation also touches on the concept of computational irreducibility and how the second law can be seen as a story of a computationally bounded observer trying to observe a computationally irreducible system. The idea of being a computationally bounded observer is explained as being limited in the amount of computation one can perform to understand a system. Finally, the conversation mentions the law of entropy increase as a characteristic of the universe."
+  }
+]

@@ -1,0 +1,719 @@
+[
+  {
+    "start": 2.9607508532423212,
+    "end": 13.02901023890785,
+    "speaker": "SPEAKER_00",
+    "text": " What are you thinking general that Lama was open source? I just did a conversation with Mark Zuckerberg and he's all in on open source."
+  },
+  {
+    "start": 14.189419795221843,
+    "end": 17.107508532423207,
+    "speaker": "SPEAKER_01",
+    "text": " Who would have thought that Mark Zuckerberg would be the good guy?"
+  },
+  {
+    "start": 18.5580204778157,
+    "end": 18.984641638225256,
+    "speaker": "SPEAKER_01",
+    "text": " 9 minutes."
+  },
+  {
+    "start": 20.196245733788395,
+    "end": 26.4419795221843,
+    "speaker": "SPEAKER_00",
+    "text": " Who would have thought anything in this world? It's hard to know. But open source to you, ultimately."
+  },
+  {
+    "start": 28.609215017064848,
+    "end": 29.59897610921502,
+    "speaker": "SPEAKER_00",
+    "text": " is a good thing here."
+  },
+  {
+    "start": 29.59897610921502,
+    "end": 30.998293515358363,
+    "speaker": "SPEAKER_01",
+    "text": " Undoubtedly."
+  },
+  {
+    "start": 32.27815699658703,
+    "end": 38.660409556313994,
+    "speaker": "SPEAKER_01",
+    "text": " You know, what's ironic about all these AI safety people is they are going to build the exact thing they fear."
+  },
+  {
+    "start": 40.281569965870304,
+    "end": 50.520477815699664,
+    "speaker": "SPEAKER_01",
+    "text": " These, we need to have one model that we control and align. This is the only way you end up paper-clipped. There's no way you end up paper-clipped if everybody has an AI."
+  },
+  {
+    "start": 50.7764505119454,
+    "end": 54.991467576791806,
+    "speaker": "SPEAKER_00",
+    "text": " So all consorting is the way to fight the people, glad to maximize them. Absolutely."
+  },
+  {
+    "start": 54.991467576791806,
+    "end": 58.267918088737204,
+    "speaker": "SPEAKER_01",
+    "text": " the only way. You think you're going to control it? You're not going to control it."
+  },
+  {
+    "start": 58.762798634812285,
+    "end": 63.42150170648465,
+    "speaker": "SPEAKER_00",
+    "text": " So the criticism you have for the AI's 80 folks is that there is"
+  },
+  {
+    "start": 64.01877133105802,
+    "end": 73.62627986348123,
+    "speaker": "SPEAKER_00",
+    "text": " belief in a desire for control. Yeah. And that belief in desire for centralized control of dangerous AI systems is not good."
+  },
+  {
+    "start": 66.13481228668942,
+    "end": 66.37372013651877,
+    "speaker": "SPEAKER_01",
+    "text": " Yeah."
+  },
+  {
+    "start": 73.62627986348123,
+    "end": 80.72525597269625,
+    "speaker": "SPEAKER_01",
+    "text": " Sam Altman won't tell you that GPT-4 has 220 billion parameters and is a 16-way mixture model with eight sets of weights."
+  },
+  {
+    "start": 81.23720136518772,
+    "end": 84.20648464163823,
+    "speaker": "SPEAKER_00",
+    "text": " Who did you have to murder to get that information?"
+  },
+  {
+    "start": 83.1825938566553,
+    "end": 83.19965870307168,
+    "speaker": "SPEAKER_01",
+    "text": " you"
+  },
+  {
+    "start": 85.87883959044369,
+    "end": 85.99829351535837,
+    "speaker": "SPEAKER_00",
+    "text": " Thank you."
+  },
+  {
+    "start": 85.99829351535837,
+    "end": 102.05631399317407,
+    "speaker": "SPEAKER_01",
+    "text": " I mean, look, but yes. Everyone at OpenAI knows what I just said was true, right? Now ask the question, really. You know, it upsets me when I, like GPT-2, when OpenAI came out with GPT-2 and raised a whole fake AI safety thing about that, I mean, now the model's laughable."
+  },
+  {
+    "start": 103.2849829351536,
+    "end": 108.13139931740615,
+    "speaker": "SPEAKER_01",
+    "text": " like they used AI safety to hype up their company and it's disgusting."
+  },
+  {
+    "start": 109.51365187713311,
+    "end": 125.99829351535837,
+    "speaker": "SPEAKER_00",
+    "text": " or the flip side of that is they used a relatively weak model in retrospect to explore how do we do AI say it correctly, how to release things, how do we go through the process. I don't know if I don't know how much height there is."
+  },
+  {
+    "start": 122.50000000000001,
+    "end": 127.00511945392492,
+    "speaker": "SPEAKER_01",
+    "text": " I don't know how much height there is. That's the share of the interpretation."
+  },
+  {
+    "start": 126.97098976109216,
+    "end": 129.49658703071674,
+    "speaker": "SPEAKER_00",
+    "text": " I don't know how much hype there is in the AI safety honestly."
+  },
+  {
+    "start": 129.49658703071674,
+    "end": 135.9982935153584,
+    "speaker": "SPEAKER_01",
+    "text": " There's so much at least on the splitter. I don't know. Maybe Twitter's not real life. But there's not real life. Come on. In terms of..."
+  },
+  {
+    "start": 132.48293515358364,
+    "end": 168.79692832764505,
+    "speaker": "SPEAKER_00",
+    "text": " But there's not a real life. Come on. In terms of hype, I mean, I don't, I think opening AI has been finding an interesting balance between transparency and putting value on AI safety. You don't think you think just go a lot open source. So do with llama. Absolutely. So do like open source. This is a tough question, which is open source, both the base, the foundation model, and the fine tune one. So like the model that can be ultra racist and dangerous and like tell you how to build a new cool weapon."
+  },
+  {
+    "start": 150.4863481228669,
+    "end": 150.6911262798635,
+    "speaker": "SPEAKER_01",
+    "text": ""
+  },
+  {
+    "start": 168.40443686006824,
+    "end": 171.5273037542662,
+    "speaker": "SPEAKER_01",
+    "text": " Oh my god, have you met humans? Right? Half of these..."
+  },
+  {
+    "start": 171.5273037542662,
+    "end": 177.17576791808875,
+    "speaker": "SPEAKER_00",
+    "text": " I haven't met most humans. I this makes this this allows you to meet every human."
+  },
+  {
+    "start": 177.17576791808875,
+    "end": 186.56143344709898,
+    "speaker": "SPEAKER_01",
+    "text": " Yeah, I know, but half of these AI alignment problems are just human alignment problems. And that's what's also so scary about the language they use. It's like, it's not the machines you want to align. It's me."
+  },
+  {
+    "start": 188.14846416382255,
+    "end": 195.24744027303757,
+    "speaker": "SPEAKER_00",
+    "text": " But here's the thing, it makes it very accessible to ask very,"
+  },
+  {
+    "start": 197.24402730375425,
+    "end": 200.89590443686006,
+    "speaker": "SPEAKER_00",
+    "text": " Questions where the answers have dangerous consequences if you were to act on them."
+  },
+  {
+    "start": 201.95392491467578,
+    "end": 204.7013651877133,
+    "speaker": "SPEAKER_01",
+    "text": " I mean, yeah. Welcome to the world."
+  },
+  {
+    "start": 205.14505119453923,
+    "end": 212.5,
+    "speaker": "SPEAKER_00",
+    "text": " Well, for me, there's a lot of friction if I want to find out how to, I don't know, blow"
+  },
+  {
+    "start": 212.5,
+    "end": 215.9982935153584,
+    "speaker": "SPEAKER_01",
+    "text": " up something. No, there's not a lot of friction. That's so easy. No."
+  },
+  {
+    "start": 215.9982935153584,
+    "end": 219.7866894197952,
+    "speaker": "SPEAKER_00",
+    "text": " like what do I search days being or day, which search I use."
+  },
+  {
+    "start": 219.7866894197952,
+    "end": 232.5,
+    "speaker": "SPEAKER_01",
+    "text": " No, there's like lots of stuff. No, it feels like I have to first off, first off, first off, first off. Anyone who's stupid enough to search for how to blow up a building in my neighborhood is not smart enough to build a bomb. Right. Are you sure about that? Yes."
+  },
+  {
+    "start": 221.62969283276453,
+    "end": 224.08703071672358,
+    "speaker": "SPEAKER_00",
+    "text": " No, it feels like I have to cook for a stop."
+  },
+  {
+    "start": 232.1245733788396,
+    "end": 232.27815699658703,
+    "speaker": "SPEAKER_00",
+    "text": " Yeah."
+  },
+  {
+    "start": 233.83105802047783,
+    "end": 242.09044368600684,
+    "speaker": "SPEAKER_00",
+    "text": " I feel like a language model makes it more accessible for that person who's not smart enough to do it."
+  },
+  {
+    "start": 241.61262798634812,
+    "end": 255.07679180887374,
+    "speaker": "SPEAKER_01",
+    "text": " They're not going to build a bomb. Trust me. The people who are incapable of figuring out how to ask that question a bit more academically and get a real answer from it are not capable of procuring the materials, which are somewhat controlled to build a bomb."
+  },
+  {
+    "start": 256.1689419795222,
+    "end": 267.51706484641636,
+    "speaker": "SPEAKER_00",
+    "text": " No, I think a lot of it makes it more accessible to people with money without the technical know how, right? To build like you do really need to know how to build the bomb to build the bomb. You can hire people you can find like."
+  },
+  {
+    "start": 267.15870307167233,
+    "end": 272.73890784982933,
+    "speaker": "SPEAKER_01",
+    "text": " You can hire people to build up. You know what? I was asking this question on my stream. Like, can Jeff Bezos hire a hitman? Probably not."
+  },
+  {
+    "start": 273.95051194539246,
+    "end": 275.72525597269623,
+    "speaker": "SPEAKER_00",
+    "text": " but a language model."
+  },
+  {
+    "start": 276.5273037542662,
+    "end": 277.90955631399316,
+    "speaker": "SPEAKER_00",
+    "text": " can probably help you out."
+  },
+  {
+    "start": 278.4726962457338,
+    "end": 285.50341296928326,
+    "speaker": "SPEAKER_01",
+    "text": " You'll still go to jail, right? Like it's not like the language model is gone. Like the language model, it's like, it's literally just hired someone on Fiverr."
+  },
+  {
+    "start": 286.1348122866894,
+    "end": 287.0051194539249,
+    "speaker": "SPEAKER_01",
+    "text": " You use it but"
+  },
+  {
+    "start": 287.0051194539249,
+    "end": 299.1382252559727,
+    "speaker": "SPEAKER_00",
+    "text": " Okay, okay, GPT4 in terms of finding a hitman is like asking five or how to find a hitman. I understand, but don't you think... At Wikihale, you know? Wikihale. But don't you think GPT5 will be better? Because don't you think that information is out there on the internet?"
+  },
+  {
+    "start": 292.67064846416383,
+    "end": 294.22354948805463,
+    "speaker": "SPEAKER_01",
+    "text": " I don't know if you think... That's a wiki hell, you know?"
+  },
+  {
+    "start": 299.76962457337885,
+    "end": 307.51706484641636,
+    "speaker": "SPEAKER_01",
+    "text": " I mean, yeah, and I think that if someone is actually serious enough to hire a hitman or build a bomb, they'd also be serious enough to find the information."
+  },
+  {
+    "start": 307.51706484641636,
+    "end": 328.6262798634812,
+    "speaker": "SPEAKER_00",
+    "text": " I don't think so. I think it makes it more accessible. If you have enough money to buy him in, I think it decreases the friction of how hard is it to find that kind of him in. I honestly think there's a jump in ease and scale of how much harm you can do. And I don't mean harm with language. I mean harm with the actual violence."
+  },
+  {
+    "start": 328.7798634812287,
+    "end": 358.0460750853242,
+    "speaker": "SPEAKER_01",
+    "text": " What you're basically saying is like, okay, what's gonna happen is these people who are not intelligent are going to use machines to augment their intelligence. And now intelligent people and machines intelligence are scary. Intelligent agents are scary. When I'm in the woods, the scariest animal to meet is a human. No, no, no, no. There's like nice California humans. Like I see you're wearing like, street clothes and Nike's, they're fine. But you look like you've been a human who's been in the woods for a while. I'm more scared of you than a bear."
+  },
+  {
+    "start": 356.1689419795222,
+    "end": 356.47610921501706,
+    "speaker": "SPEAKER_00",
+    "text": " Yeah."
+  },
+  {
+    "start": 358.0460750853242,
+    "end": 362.0051194539249,
+    "speaker": "SPEAKER_00",
+    "text": " That's what they say about the Amazon. When you go to the Amazon, it's the human tribes."
+  },
+  {
+    "start": 362.0051194539249,
+    "end": 375.2986348122867,
+    "speaker": "SPEAKER_01",
+    "text": " Oh yeah. So intelligence is scary, right? So to just ask this question generic way, you're like, what if we took everybody who maybe has ill intention, but is not so intelligent and gave them intelligence?"
+  },
+  {
+    "start": 377.24402730375425,
+    "end": 384.8037542662116,
+    "speaker": "SPEAKER_01",
+    "text": " So we should have intelligence control, of course. We should only give intelligence to good people. And that is the absolutely horrifying idea."
+  },
+  {
+    "start": 383.1143344709898,
+    "end": 383.1655290102389,
+    "speaker": "SPEAKER_00",
+    "text": " you"
+  },
+  {
+    "start": 384.7013651877133,
+    "end": 392.0051194539249,
+    "speaker": "SPEAKER_00",
+    "text": " Should you give the best of fences actually? The best of fences to give more intelligence to the good guys and intelligence. Give the intelligence to everybody."
+  },
+  {
+    "start": 392.0051194539249,
+    "end": 400.7935153583618,
+    "speaker": "SPEAKER_01",
+    "text": " Give intelligence to everybody. You know what? It's not even like guns, right? Like people say this about guns. You know what's the best defense against a bad guy with a gun? Good guy with a gun. Like I kinda subscribe to that, but I really subscribe to that with intelligence."
+  },
+  {
+    "start": 402.17576791808875,
+    "end": 410.99829351535834,
+    "speaker": "SPEAKER_00",
+    "text": " Yeah, in a fundamental way, I agree with you. But there's just feels like so much uncertainty and so much can happen rapidly. That you can lose a lot of control and you can do a lot of damage."
+  },
+  {
+    "start": 411.3737201365188,
+    "end": 417.26109215017067,
+    "speaker": "SPEAKER_01",
+    "text": " Oh no, we can lose control. Yes, thank God. Yeah. I hope they lose control."
+  },
+  {
+    "start": 419.06996587030716,
+    "end": 421.1006825938567,
+    "speaker": "SPEAKER_01",
+    "text": " I want them to lose control more than anything else."
+  },
+  {
+    "start": 422.1075085324232,
+    "end": 429.34300341296927,
+    "speaker": "SPEAKER_00",
+    "text": " I think when you lose control, you can do a lot of damage, but you can do more damage when you centralize and hold on to control. That's the point."
+  },
+  {
+    "start": 429.34300341296927,
+    "end": 436.90273037542664,
+    "speaker": "SPEAKER_01",
+    "text": " centralized and held control is tyranny. I will always, I don't like anarchy either, but I'll always take anarchy over tyranny. Anarchy, you have a chance."
+  },
+  {
+    "start": 438.60921501706486,
+    "end": 450.50341296928326,
+    "speaker": "SPEAKER_00",
+    "text": " This human civilization got going on. It's quite interesting. I mean, I agree with you. So do you open source is the way forward here? So you admire what Facebook is doing here, or what meta is doing with the other."
+  },
+  {
+    "start": 447.05631399317406,
+    "end": 447.15870307167233,
+    "speaker": "SPEAKER_01",
+    "text": " Thank you."
+  },
+  {
+    "start": 448.69453924914677,
+    "end": 457.75597269624575,
+    "speaker": "SPEAKER_01",
+    "text": " doing here or what matter is doing with the release of a lot. A lot. I lost I lost $80,000 last year investing in meta and when they released llama, I'm like, yeah, whatever man, that was worth it."
+  },
+  {
+    "start": 451.4419795221843,
+    "end": 451.4931740614335,
+    "speaker": "SPEAKER_00",
+    "text": ""
+  },
+  {
+    "start": 452.5853242320819,
+    "end": 452.6194539249147,
+    "speaker": "SPEAKER_00",
+    "text": ""
+  },
+  {
+    "start": 458.438566552901,
+    "end": 465.6399317406143,
+    "speaker": "SPEAKER_00",
+    "text": " is worth it. Do you think Google and OpenAI with Microsoft will match what what what meta is doing or not?"
+  },
+  {
+    "start": 466.47610921501706,
+    "end": 478.1996587030717,
+    "speaker": "SPEAKER_01",
+    "text": " So if I were a researcher, why would you want to work at OpenAI? Like, you're just, you're on the bad team. Like, I mean it. You're on the bad team who can't even say that GPT-4 has 220 billion parameters."
+  },
+  {
+    "start": 478.1996587030717,
+    "end": 479.9061433447099,
+    "speaker": "SPEAKER_00",
+    "text": " So, close source to use the bad team."
+  },
+  {
+    "start": 480.65699658703073,
+    "end": 489.820819112628,
+    "speaker": "SPEAKER_01",
+    "text": " not only close source. I'm not saying you need to make your model weights open. I'm not saying that. I totally understand we're keeping our model weights closed because that's our product. All right, that's fine."
+  },
+  {
+    "start": 490.72525597269623,
+    "end": 499.018771331058,
+    "speaker": "SPEAKER_01",
+    "text": " I'm saying like, because of AI safety reasons, we can't tell you the number of billions of parameters in the model. That's just the bad guys."
+  },
+  {
+    "start": 499.76962457337885,
+    "end": 507.9948805460751,
+    "speaker": "SPEAKER_00",
+    "text": " Just because you're mocking the eye safety doesn't mean it's not real. Oh, of course it's impossible that these things can really do a lot of damage that we don't know"
+  },
+  {
+    "start": 507.9948805460751,
+    "end": 514.8037542662116,
+    "speaker": "SPEAKER_01",
+    "text": " By God, yes, intelligence is so dangerous, be it human intelligence or machine intelligence. Intelligence is dangerous."
+  },
+  {
+    "start": 515.0938566552901,
+    "end": 522.858361774744,
+    "speaker": "SPEAKER_00",
+    "text": " but machine intelligence is so much easier to deploy a scale like rapidly. Like what? Okay. If you have human-like bots on Twitter,"
+  },
+  {
+    "start": 519.7354948805461,
+    "end": 520.0938566552901,
+    "speaker": "SPEAKER_01",
+    "text": " Like what?"
+  },
+  {
+    "start": 522.858361774744,
+    "end": 523.1313993174061,
+    "speaker": "SPEAKER_01",
+    "text": " Alright."
+  },
+  {
+    "start": 524.820819112628,
+    "end": 532.2098976109215,
+    "speaker": "SPEAKER_00",
+    "text": " And you have like a thousand of them create a whole narrative. Like you can manipulate millions of people."
+  },
+  {
+    "start": 531.9709897610921,
+    "end": 535.4522184300341,
+    "speaker": "SPEAKER_01",
+    "text": " people. But you mean like the intelligence agencies in America are doing right now?"
+  },
+  {
+    "start": 535.7423208191126,
+    "end": 539.6672354948805,
+    "speaker": "SPEAKER_00",
+    "text": " Yeah, but they're not doing it that well. It feels like you can do a lot."
+  },
+  {
+    "start": 540.0255972696245,
+    "end": 540.7081911262799,
+    "speaker": "SPEAKER_01",
+    "text": " They do it pretty well."
+  },
+  {
+    "start": 542.141638225256,
+    "end": 543.882252559727,
+    "speaker": "SPEAKER_01",
+    "text": " Well, I think everyone a pretty good job."
+  },
+  {
+    "start": 542.1757679180887,
+    "end": 542.5341296928327,
+    "speaker": "SPEAKER_00",
+    "text": " Yeah."
+  },
+  {
+    "start": 544.325938566553,
+    "end": 548.5068259385665,
+    "speaker": "SPEAKER_00",
+    "text": " I suspect that Nile is good as a bunch of GPT fuel boxes."
+  },
+  {
+    "start": 548.5068259385665,
+    "end": 553.1996587030717,
+    "speaker": "SPEAKER_01",
+    "text": " could be. I mean, of course, they're looking into the latest technologies for control of people, of course."
+  },
+  {
+    "start": 553.6774744027304,
+    "end": 559.0017064846417,
+    "speaker": "SPEAKER_00",
+    "text": " But I think there's a George Hoss type character that can do a better job than the entirety of them. You don't think so. No way."
+  },
+  {
+    "start": 559.5136518771332,
+    "end": 578.1484641638225,
+    "speaker": "SPEAKER_01",
+    "text": " No, and I'll tell you why the George Hots character can't. And I thought about this a lot with hacking. Like I can find exploits in web browsers. I probably still can. I mean, it was better out on it was 24. But if the thing that I lack is the ability to slowly and steadily deploy them over five years. And this is what intelligence agencies are very good at. Intelligence agencies don't have the most sophisticated technology."
+  },
+  {
+    "start": 579.1040955631399,
+    "end": 581.4931740614335,
+    "speaker": "SPEAKER_01",
+    "text": " They just have endurance."
+  },
+  {
+    "start": 581.4931740614335,
+    "end": 582.0733788395904,
+    "speaker": "SPEAKER_00",
+    "text": " parents."
+  },
+  {
+    "start": 582.9095563139932,
+    "end": 588.2679180887372,
+    "speaker": "SPEAKER_00",
+    "text": " and financial backing and the infrastructure for the industry."
+  },
+  {
+    "start": 588.0119453924915,
+    "end": 609.6672354948805,
+    "speaker": "SPEAKER_01",
+    "text": " the endurance. So the more we can decentralize power, like you could make an argument, by the way, that nobody should have these things. And I would defend that argument. I would, I would, like you're saying, look, LLMs and AI and machine intelligence can cause a lot of harm, so nobody should have it. And I will respect someone philosophically with that position, just like I will respect someone philosophically with the position that nobody should have guns."
+  },
+  {
+    "start": 610.6740614334472,
+    "end": 618.1996587030717,
+    "speaker": "SPEAKER_01",
+    "text": " But I will not respect philosophically, which with only the trusted authorities should have access to this."
+  },
+  {
+    "start": 618.882252559727,
+    "end": 629.1552901023891,
+    "speaker": "SPEAKER_01",
+    "text": " Who are the trusted authorities? You know what? I'm not worried about alignment between AI company and their machines. I'm worried about alignment between me and AI company."
+  },
+  {
+    "start": 629.8890784982935,
+    "end": 632.9266211604096,
+    "speaker": "SPEAKER_00",
+    "text": " What do you think of the hazard at Kowski would say to you?"
+  },
+  {
+    "start": 634.1552901023891,
+    "end": 636.5102389078498,
+    "speaker": "SPEAKER_00",
+    "text": " This is really against open source."
+  },
+  {
+    "start": 636.5102389078498,
+    "end": 638.0972696245734,
+    "speaker": "SPEAKER_01",
+    "text": " I know. And..."
+  },
+  {
+    "start": 640.6569965870307,
+    "end": 651.1177474402731,
+    "speaker": "SPEAKER_01",
+    "text": " I thought about this. I thought about this. And I think this comes down to a repeated misunderstanding of political power by the rationalist."
+  },
+  {
+    "start": 652.6194539249146,
+    "end": 653.4044368600682,
+    "speaker": "SPEAKER_01",
+    "text": " Interesting."
+  },
+  {
+    "start": 654.7525597269624,
+    "end": 678.4556313993174,
+    "speaker": "SPEAKER_01",
+    "text": " I think that Eliy Zyudkowski is scared of these things. And I am scared of these things too. Everyone should be scared of these things. These things are scary. But now you ask about the two possible futures. One where a small, trusted centralized group of people has them. And the other where everyone has them. And I am much less scared of the second future than the first."
+  },
+  {
+    "start": 680.042662116041,
+    "end": 683.7457337883959,
+    "speaker": "SPEAKER_00",
+    "text": " Well, there's a small trusted group of people that have control over our nuclear weapons."
+  },
+  {
+    "start": 685.5546075085324,
+    "end": 691.8344709897611,
+    "speaker": "SPEAKER_01",
+    "text": " There's a difference. Again, a nuclear weapon cannot be deployed tactically, and a nuclear weapon is not a defense against a nuclear weapon."
+  },
+  {
+    "start": 694.0699658703072,
+    "end": 696.2201365187714,
+    "speaker": "SPEAKER_01",
+    "text": " except maybe in some philosophical mind game kind of way."
+  },
+  {
+    "start": 698.523890784983,
+    "end": 700.9641638225256,
+    "speaker": "SPEAKER_00",
+    "text": " But AI is different in different hogs, I believe."
+  },
+  {
+    "start": 701.1006825938566,
+    "end": 720.1621160409557,
+    "speaker": "SPEAKER_01",
+    "text": " Okay, let's say the intelligence agency deploys a million bots on Twitter or a thousand bots on Twitter to try to convince me of a point. Imagine I had a powerful AI running on my computer saying, okay, nice, sayop, nice, sayop, nice, sayop. Okay, here's a sayop. I filtered it out for you."
+  },
+  {
+    "start": 721.1518771331058,
+    "end": 726.69795221843,
+    "speaker": "SPEAKER_00",
+    "text": " Yeah, I mean, so you have fundamentally hoped for that, for the defensive side-out."
+  },
+  {
+    "start": 726.69795221843,
+    "end": 739.8720136518772,
+    "speaker": "SPEAKER_01",
+    "text": " I'm not even like, I don't even mean these things in like truly horrible ways. I mean these things in straight up like ad blocker. Right? Straight up ad blocker. I don't want ads. But they are always finding, you know, imagine I had an AI that could just block all the ads for me."
+  },
+  {
+    "start": 737.3805460750854,
+    "end": 737.9778156996587,
+    "speaker": "SPEAKER_00",
+    "text": " haven't hair lying? It was a sacred\u0435\u0440\u0436, can't say no, ownag. Alright. It's you? Alright? We're fighting. Yeah?"
+  },
+  {
+    "start": 741.2372013651877,
+    "end": 745.6911262798635,
+    "speaker": "SPEAKER_00",
+    "text": " So you believe in the power of the people that always create a now-blocker."
+  },
+  {
+    "start": 746.5784982935154,
+    "end": 766.4419795221843,
+    "speaker": "SPEAKER_00",
+    "text": " Yeah, I mean, I kind of share that belief. I have that that's one of the deepest optimism I have is just like, there's a lot of good guys. So to give, you know, you shouldn't hand pick them. Just throw out powerful technology out there and the good guys will outnumber and outpower the bad guys."
+  },
+  {
+    "start": 766.3225255972696,
+    "end": 788.5409556313994,
+    "speaker": "SPEAKER_01",
+    "text": " Yeah, I'm not even gonna say there's a lot of good guys. I'm saying that good out numbers bad, right? Good out numbers bad in skill and performance. Yeah, definitely in skill and performance, probably just a number two, probably just in general. I mean, if you believe philosophically in democracy, you obviously believe that good out numbers bad. And like, if you give it to a small number of people,"
+  },
+  {
+    "start": 771.3225255972696,
+    "end": 771.5784982935154,
+    "speaker": "SPEAKER_00",
+    "text": ""
+  },
+  {
+    "start": 773.1484641638225,
+    "end": 773.2508532423209,
+    "speaker": "SPEAKER_00",
+    "text": " Yeah."
+  },
+  {
+    "start": 789.9402730375426,
+    "end": 798.6262798634813,
+    "speaker": "SPEAKER_01",
+    "text": " There's a chance you gave it to good people, but there's also a chance you gave it to bad people. If you give it to everybody, well, if good out numbers bad, then you definitely gave it to more good people than bad."
+  },
+  {
+    "start": 801.7662116040956,
+    "end": 808.5068259385665,
+    "speaker": "SPEAKER_00",
+    "text": " That's really interesting. So that's on the safety grounds, but then also of course there's other motivations like you don't want to give away your secret sauce."
+  },
+  {
+    "start": 808.5068259385665,
+    "end": 820.9982935153583,
+    "speaker": "SPEAKER_01",
+    "text": " Well, that's what I mean. I mean, I look at respect capitalism. I don't think that I think that it would be polite for you to make model architectures open source and fundamental breakthroughs open source. I don't think you have to make weights open source."
+  },
+  {
+    "start": 820.9982935153583,
+    "end": 863.1996587030717,
+    "speaker": "SPEAKER_00",
+    "text": " is that there's so many possible trajectories in human history where you could have the next Google be open source. So for example, I don't know if that connection is accurate, but Wikipedia made a lot of interesting decisions not to put ads. Wikipedia is basically open source. You could think of it that way. And that's one of the main websites on the internet. And you didn't have to be that way. It could have been like Google could have created Wikipedia, put ads on it. You could probably run amazing ads now on Wikipedia. You wouldn't have to keep asking for money. But it's interesting, right? So Lama, open source Lama, derivatives of open source Lama might win the internet."
+  },
+  {
+    "start": 845.5546075085324,
+    "end": 845.7935153583618,
+    "speaker": "SPEAKER_01",
+    "text": " Yeah."
+  },
+  {
+    "start": 864.684300341297,
+    "end": 870.7593856655291,
+    "speaker": "SPEAKER_01",
+    "text": " I sure hope so. I hope to see another era. You know, the kids today don't know how good the internet used to be."
+  },
+  {
+    "start": 871.7662116040956,
+    "end": 883.080204778157,
+    "speaker": "SPEAKER_01",
+    "text": " And I don't think this is just, come on, like everyone's nostalgic for their past, but I actually think the internet before small groups of weaponized corporate and government interests took it over was a beautiful place."
+  },
+  {
+    "summary": "In the conversation, the speakers discuss the topic of open source and its implications in relation to AI and machine intelligence. They express support for open source and believe that it is a good way to combat potential dangers. They criticize AI safety advocates for wanting centralized control of AI systems, believing that it would lead to more harm than good. They also discuss the need for alignment between humans and AI rather than aligning the AI itself. The conversation touches on the potential risks of open source models being used for harmful purposes, but they believe that the benefits outweigh the potential harm. The speakers also discuss the advantages of decentralizing power and giving access to intelligence to a wider range of people rather than a small trusted group. They express concerns about the misuse of AI by intelligence agencies and emphasize the importance of good outnumbering bad in society. They highlight the potential of open source to create positive change on the internet, drawing comparisons to websites like Wikipedia. Overall, the speakers support open source and believe it can lead to a more balanced and positive future."
+  }
+]

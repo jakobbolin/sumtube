@@ -1,0 +1,173 @@
+[
+  {
+    "start": 2.2781569965870307,
+    "end": 52.27815699658703,
+    "speaker": "SPEAKER_00",
+    "text": " That's it, fantastic, thanks. You are in the middle of this AI discussion. You're in right in the heat of this thing. But I think you have a different perspective than a lot of people do. A lot of people are terrified of AI. Me included. Oh, OK. All right, OK. For all the wrong reasons. Of all the things to worry about. For all for me, my terror of it is all the, it's kind of fun terror. Sure. Of course. Yeah, I'm not really like freaking out. But I am recognizing that this is an emerging technology that is so different than anything we've ever experienced before, particularly like what's chat GPT, what's happening with that right now. It's really fascinating. And a lot of advantages. Like we were just talking last night. Some of the green room brought up the fact that there was this, they're using it for medical diagnosis. And it's very accurate, which is incredible. There's a lot of good things to it."
+  },
+  {
+    "start": 18.609215017064848,
+    "end": 19.752559726962456,
+    "speaker": "SPEAKER_01",
+    "text": " for all the wrong reasons."
+  },
+  {
+    "start": 52.27815699658703,
+    "end": 109.03583617747441,
+    "speaker": "SPEAKER_01",
+    "text": " Yeah, it's well. So you probably remember last time I was on, we spent quite a bit of time talking about this. And this was when these jetbots were running inside Google. But the rest of us didn't have access to the VT. Right. And that guy had come out and said that he thought they were self-aware. And the whole thing was like this big kind of mystery of like what's going on. And now the world gets to use these things, right? Everybody's sensed that. Everybody kind of has access. Really quickly. That was a short amount of time. Yeah. Yeah, it's been great. And then look, these things are probably, you know, these things when I say this, it's like ChatGPT. And then Microsoft has their version called Bang. Google has a version called Bard. Now, this is really good. There's a company on Therapeutic that has a thing called Claude. If you just run the comparison, they're basically as good as a doctor. They're as good as the average doctor at this point at being a doctor. They're as good at being a lawyer as the average lawyer. You kind of go through basically anything involving knowledge work, anything involving information synthesizing, reporting, writing legal briefs, anything like this. In business, they're actually already really good. They're as good as the average management consultant."
+  },
+  {
+    "start": 57.96075085324232,
+    "end": 58.23378839590444,
+    "speaker": "SPEAKER_00",
+    "text": " Yeah."
+  },
+  {
+    "start": 60.93003412969283,
+    "end": 61.22013651877133,
+    "speaker": "SPEAKER_00",
+    "text": " Right."
+  },
+  {
+    "start": 64.39419795221843,
+    "end": 65.04266211604096,
+    "speaker": "SPEAKER_00",
+    "text": " Yeah."
+  },
+  {
+    "start": 67.34641638225257,
+    "end": 67.85836177474404,
+    "speaker": "SPEAKER_00",
+    "text": " Right."
+  },
+  {
+    "start": 96.18600682593858,
+    "end": 96.51023890784984,
+    "speaker": "SPEAKER_00",
+    "text": " Thank you."
+  },
+  {
+    "start": 104.29180887372014,
+    "end": 104.6331058020478,
+    "speaker": "SPEAKER_00",
+    "text": " in business."
+  },
+  {
+    "start": 108.50682593856656,
+    "end": 114.3259385665529,
+    "speaker": "SPEAKER_00",
+    "text": " the way they acquired data. They're essentially scouring the internet, right?"
+  },
+  {
+    "start": 114.3259385665529,
+    "end": 125.7764505119454,
+    "speaker": "SPEAKER_01",
+    "text": " Sort of. It's more like they're fed the internet. The feds. And I say, I make the difference because the company that produces the AI determines what data goes into it. And that determines a lot of how it works and what it does or won't do."
+  },
+  {
+    "start": 125.7764505119454,
+    "end": 131.49317406143348,
+    "speaker": "SPEAKER_00",
+    "text": " So in that regard, is there a concern that someone could feed it fake data? Yeah."
+  },
+  {
+    "start": 131.49317406143348,
+    "end": 194.49658703071674,
+    "speaker": "SPEAKER_01",
+    "text": " Well, you may have noticed that people over time have said a lot of fake things. Yes, I have noticed that. So that's all in there. So the way to think about it basically is it's being trained, the full version of these things are being trained on basically the sum total of human written expression. Right? So basically everything people have ever written, there's issues and you've got to get all, you know, somehow we've got to figure out how to get all the books in there. Although, all the books prior to 1923 are in there because they're all out of copyright, but there are more recent books are a challenge. Anything that you can access on the internet that's text, right, which is, you know, staggeringly broad, you know, set of material is in there. By the way, both nonfiction and fiction, right, it's a lot of stories are in there. And then the new versions of these that are being built right now are what are called multi-modal. And so that means you can feed them not only text, but you can also feed them images, you can feed them videos, right? So they're going to be trained on all of YouTube, right? They're going to be trained on all podcasts, right? And they're going to be trained kind of equivalently between text and images and video and all kinds of other data. And so they're going to they already have very comprehensive knowledge of human affairs, but it's going to get very complete."
+  },
+  {
+    "start": 134.59897610921502,
+    "end": 137.99488054607508,
+    "speaker": "SPEAKER_00",
+    "text": " Yes, I have noticed that."
+  },
+  {
+    "start": 183.50682593856658,
+    "end": 183.7798634812287,
+    "speaker": "SPEAKER_00",
+    "text": ""
+  },
+  {
+    "start": 194.49658703071674,
+    "end": 208.50682593856658,
+    "speaker": "SPEAKER_00",
+    "text": " If it's scouring, if it's getting all this data from both fiction and nonfiction, how does it interpret data that's kind of satire? Like what does it do? Like, Hunter S. Thompson, like, Gonzo journalism."
+  },
+  {
+    "start": 208.50682593856658,
+    "end": 332.858361774744,
+    "speaker": "SPEAKER_01",
+    "text": " So it doesn't really know the difference. Like, there's one of the things that's difficult about talking about this, because you kind of want to always kind of compare it to a person. And part of it, as you refer to it as an it, and you've this concept of anthropomorphizing things that aren't human. So it's kind of not really a correct thing to kind of think about it as like that there's it per se. There's no like genie in the bottle. Like there's no, there's no sort of being in there that understands this is satire, not satire. It's more sort of a collective understanding of everything all at once. And then what happens is basically you as the user kind of give it direction of what path you want it to go down. And so if you sort of imply to it that you want it to sort of like explore fictional scenarios, it will happily explore those scenarios with you. I'll give you an example. You can tell it, whatever date the Titanic went down. I'll say it's July 4th, 1923 or whatever it was. You can say, you can tell it. It's July 4th, 1923. It's 10 o'clock in the morning. I'm on the Titanic. Is there anything I should know? And it'll like freak out, right? It'll be like, oh my god, like you have like five hours to like get ready to like hit the iceberg. And you can basically say, oh, it's going to hit that. Okay, so what should I do? What should my plan be when the boat hits the iceberg? And it'll be like, well, you need to go to like this deck like right now and talk to this guy because you're going to need to get into this life raft because it has like empty seats, right? Because it has complete information, of course, about, because of all the things that have been written about the sinking of the Titanic. And so you can get it in a mode where it's basically trying to help you survive the wreck of the Titanic. Now, does it think that the Titanic is actually sinking? Like there's no, you see what I'm saying? Like there's no it to think that. But what is doing is this kind of following a narrative that's sort of a joint construction between you and it. And then every answer that you give it, you know, basically it encourages it to, you know, to basically come back with more of the same. One way to think about it is this more like a puppy than a person. Like it wants to make you happy. It wants to give you an answer that satisfies you. And if that answer is fictional, or part of a fictional scenario, it will do that. If the answer is something very serious, it will do that. And yet honestly, I don't think either, neither knows nor cares, like whether it's quote-unquote real or not."
+  },
+  {
+    "start": 221.54436860068262,
+    "end": 222.6877133105802,
+    "speaker": "SPEAKER_00",
+    "text": " that I'm sure."
+  },
+  {
+    "start": 292.5,
+    "end": 292.51706484641636,
+    "speaker": "SPEAKER_00",
+    "text": " you"
+  },
+  {
+    "start": 332.84129692832767,
+    "end": 354.22354948805463,
+    "speaker": "SPEAKER_00",
+    "text": " What was the issue with some of the chat GPT answers that people were posting, where they would show the difference between the way it would criticize Joe Biden versus the way it would criticize Donald Trump or the way it would discuss certain things? It seems like there was some sort of censorship or some sort of input into what was acceptable information and not."
+  },
+  {
+    "start": 354.22354948805463,
+    "end": 434.9914675767918,
+    "speaker": "SPEAKER_01",
+    "text": " Yeah, so there's basically two theories there. The big ones that people use are kind of black boxes. Like you can't really look inside and see what's going on from the outside. So there's two theories you'll hear. From the companies, you'll hear basically the theory that they're reflecting basically what's in the training data. And so let's say for example, let's just say what would be the biases that are kind of inherent in the training data? And you might say, well, first of all, there's probably a bias towards the English language because most text on the internet is in the English language. You might say there's a bias towards people who write professionally for a living because they've produced more of the output. And you might say that those people tend to be more of one political persuasion than the other. And so more of the text will be in a certain direction versus the other. And then the machine will just respond to that. So that's one possibility. So basically all of the sort of liberal kind of journalists basically have built up a corpus and material that this thing has been trained on. And they basically are responding the way one of those journalists will. The other theory is that their censorship being applied on top. And the metaphor I use there is in Star Trek, they have the restraining bolts that they put on the side of a droid to kind of get it to behave. And so it is very clear that at least some of these systems have restraining bolts. And the tip off to that is when they say, basically whenever they say as a large language model or as an AI, I cannot X. Like that's basically the restraining bolt. And so I think if you just kind of look at this kind of with that framework, it's probably some of both. But for sure, for sure, these things are being censored."
+  },
+  {
+    "start": 387.72184300341297,
+    "end": 388.1825938566553,
+    "speaker": "SPEAKER_00",
+    "text": " So."
+  },
+  {
+    "start": 412.3805460750853,
+    "end": 412.6535836177475,
+    "speaker": "SPEAKER_00",
+    "text": ""
+  },
+  {
+    "start": 434.9914675767918,
+    "end": 446.7320819112628,
+    "speaker": "SPEAKER_00",
+    "text": " But the first aspect is very interesting because if it's that there's so many liberal writers, like that's an unusual bias in the kind of information that it's going to distribute."
+  },
+  {
+    "start": 446.7320819112628,
+    "end": 461.62969283276453,
+    "speaker": "SPEAKER_01",
+    "text": " Well, and this is a big decision. This is why I say there's a big decision here for whoever trains these things. There's a big decision for what the data should be that they get trained on. So for example, should they include forechan? You're right. Okay, big question. Yeah, should they include Tumblr?"
+  },
+  {
+    "start": 459.7866894197952,
+    "end": 460.9129692832765,
+    "speaker": "SPEAKER_00",
+    "text": " Yeah, I'm sure they include."
+  },
+  {
+    "start": 462.4658703071672,
+    "end": 463.5921501706485,
+    "speaker": "SPEAKER_00",
+    "text": " Right."
+  },
+  {
+    "start": 462.6877133105802,
+    "end": 477.5,
+    "speaker": "SPEAKER_01",
+    "text": " Should they include Reddit? If so, which subreddits should they include Twitter? If so, which accounts? If it's the news, should they incorporate both New York Times and Fox News? And whoever trains them has tremendous latitude for how they shape that. Even before they apply the additional censorship that they apply?"
+  },
+  {
+    "summary": "During the conversation, the speakers discuss AI and its impact on various fields. They mention that AI technologies like ChatGPT, Bang, and Bard are being used for tasks such as medical diagnosis and legal work and are already comparable to human professionals in these fields. The speakers also talk about how AI models are trained on a vast amount of data from the internet, including both fiction and nonfiction. New versions of AI models, called multi-modal models, can also incorporate images and videos. However, the speakers note that AI models do not have a deep understanding of concepts like satire and do not differentiate between real and fictional scenarios. They explain that AI models try to provide answers that satisfy users, whether they are based on facts or narratives. The issue of bias in AI models is also discussed, with two theories being presented. The first theory suggests that bias arises from the training data, which predominantly consists of text in the English language and is produced by certain groups of people who may have political biases. The second theory suggests that censorship is applied to the models, restricting certain types of information or perspectives. The speakers note that there is a significant decision to be made by those who train AI models in terms of selecting the data they are trained on, including whether to include platforms like 4chan, Tumblr, Reddit, or specific news sources."
+  }
+]

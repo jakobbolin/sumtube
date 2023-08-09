@@ -1,0 +1,149 @@
+[
+  {
+    "start": 2.9607508532423212,
+    "end": 9.684300341296929,
+    "speaker": "SPEAKER_01",
+    "text": " The characteristic that this universe, the entropy, seems to be always increasing. What does that show to you about the evolution of?"
+  },
+  {
+    "start": 10.554607508532424,
+    "end": 190.98122866894198,
+    "speaker": "SPEAKER_00",
+    "text": " Well, okay, so for the University of Entropy is. Yes, okay. And that's very confused in the history of thermodynamics because entropy was first introduced by a guy called Rudolf Klausius and he did it in terms of heat and temperature, okay? Subsequently, it was reformulated by a guy called Ludwig Boltzmann and he formulated it in a much more kind of combinatorial type way but he always claimed that it was equivalent to Klausius' thing and in one particular simple example it is, but that connection between these two formulations of entropy they've never been connected. I mean, there's really, so, okay, so the more general definition of entropy due to Boltzmann is the following thing. So you say I have a system and I have many possible configurations. Molecules can be in many different arrangements, et cetera, et cetera. If we know something about the system, for example, we know it's in a box, it has a certain pressure, it has a certain temperature, we know these overall facts about it. Then we say how many microscopic configurations of the system are possible given those overall constraints and the entropy is the logarithm of that number. That's the definition and that's the kind of the general definition of entropy that turns out to be useful. In Boltzmann's time, he thought these molecules could be placed anywhere he wants. He didn't think, but he said, oh, actually we can make it a lot simpler by having the molecules be discrete. Well, actually he didn't know molecules existed, right? And in his time, 1860s and so on, the idea that matter might have made of discrete stuff had been floated ever since ancient Greek times but it had been a long time debate about, you know, his matter discrete as it continues. At the moment, at that time, people mostly thought that matter was continuous and it was all confused with this question about what heat is and people thought heat was this fluid and it was a big model and the, and this Boltzmann said, let's assume there are discrete molecules, let's even assume they have discrete energy levels. Let's say everything is discrete. Then we can do sort of combinatorial mathematics and work out how many configurations of these things they would be in the box and we can say we can compute this entropy quantity. But he said, but of course it's just a fiction that these things are discrete, so he said. This is an interesting piece of history, by the way, that that was at that time, people didn't know molecules existed, there were other hints from looking at kind of chemistry that there might be discrete atoms and so on, just from the combinatorics of two hydrogens and one oxygen make two amounts of hydrogen plus one amounts of oxygen to gather make water, things like this. But it wasn't known that discrete molecules existed. And in fact, the people,"
+  },
+  {
+    "start": 11.476109215017065,
+    "end": 12.824232081911264,
+    "speaker": "SPEAKER_01",
+    "text": " for the University of Thailand."
+  },
+  {
+    "start": 40.46928327645051,
+    "end": 40.75938566552901,
+    "speaker": "SPEAKER_01",
+    "text": " Mm-hmm."
+  },
+  {
+    "start": 191.95392491467578,
+    "end": 338.25085324232083,
+    "speaker": "SPEAKER_00",
+    "text": " You know, it wasn't until the beginning of the 20th century that Brownian motion was the final giveaway. Brownian motion is, you know, you look under a microscope at these little pieces from pollen grains, you see they're being discreetly kicked and those kicks are water molecules hitting them and they're discreet. And in fact, it was really quite interesting history. I mean, Boltzmann had worked out how things could be discreet and have basically invented something like quantum theory in the 1860s and, but he just thought it wasn't really the way it worked and then just a piece of physics history because I think it's kind of interesting. In 1900, the sky called Max Planck, who'd been a long time thermodynamics person who was trying to, everybody was trying to prove the second-order of thermodynamics, including Max Planck. And Max Planck believed that radiation, like electromagnetic radiation, somehow the interaction of that with matter was going to prove the second-order of thermodynamics. But he had these experiments that people had done on black body radiation and there were these curves and you couldn't fit the curve based on his idea for how radiation interacted with matter, those curves, you couldn't figure out how to fit those curves. Except he noticed that if he just did what Boltzmann had done and assumed that electromagnetic radiation was discreet, he could fit the curves. He said, but, you know, this just happens to work this way. The Einstein came along and said, well, by the way, you know, the electromagnetic field might actually be discreet. It might be made of photons. And then that explains how this all works. And that was, you know, in 1905, that was how, kind of, that was how, that piece of quantum mechanics got started. Kind of interesting, interesting piece of history. I didn't know until I was researching this recently. In 1904 and 1903, Einstein wrote three different papers and, so, you know, just sort of well known physics history. In 1905, Einstein wrote these three papers, one introduced relativity theory, one explained Brownian motion, and one introduced basically photons. So, kind of, you know, kind of a big deal year for physics and for Einstein. But in the years before that, he'd written several papers and what were they about? They were about the second law of thermodynamics and they were an attempt to prove the second law of thermodynamics and their nonsense."
+  },
+  {
+    "start": 320.41808873720134,
+    "end": 320.4863481228669,
+    "speaker": "SPEAKER_01",
+    "text": ""
+  },
+  {
+    "start": 339.30887372013655,
+    "end": 439.49658703071674,
+    "speaker": "SPEAKER_00",
+    "text": " And so I had no idea that he'd done this. Interesting. He knew that. And in fact, what he did, those three papers in 1905, well, not so much about 70 paper, the one on Brownian motion, the one on photons, both of these were about the story of sort of making the world the screet. And then he got that idea from Boltzmann. But Boltzmann didn't think, you know, Boltzmann kind of died believing, you know, he said, but he has a quote actually, you know, in the end, things are going to turn out to be discreet. And I'm going to write down what I have to say about this because, you know, eventually this stuff will be rediscovered and I want to leave, you know, what I can about how things are going to be discreet. But, you know, I think he has some quote about how, you know, one person can't stand against the tide of history in saying that, you know, matter is discreet. So he stuck with guns. Interesting matter is discreet. Yes, he did. And the, you know, what's interesting about this is at the time, everybody, including Einstein, kind of assumed that space was probably going to end up being discreet too. But that didn't work out technically because it wasn't consistent with what it's a bit of a theory that it didn't seem to be. And so then in the history of physics, even though people had determined that matter was discreet, electromagnetic field was discreet, space was a holdout of not being discreet. And in fact, Einstein, 1916 has this nice letter he wrote. He says, in the end, it will turn out spaces discreet. But we don't have the mathematical tools necessary to figure out how that works yet. And so, you know, I think it's kind of cool that 100 years later we do."
+  },
+  {
+    "start": 394.30887372013655,
+    "end": 394.83788395904435,
+    "speaker": "SPEAKER_01",
+    "text": " Yes, he matters."
+  },
+  {
+    "start": 439.49658703071674,
+    "end": 445.0085324232082,
+    "speaker": "SPEAKER_01",
+    "text": " Yes, for you, you're pretty sure that every layer of reality is discrete."
+  },
+  {
+    "start": 445.0085324232082,
+    "end": 519.9914675767918,
+    "speaker": "SPEAKER_00",
+    "text": " Right, and that space is discrete. And that, I mean, and in fact, one of the things I've realized recently is this kind of theory of heat that the, you know, that heat is really this continuous fluid. It's kind of like the, you know, the caloric theory of heat, which turns out to be completely wrong because actually heat is the motion of it discrete molecules. Unless you know there are discrete molecules, it's hard to understand what heat could possibly be. Well, you know, I think space is discrete. And the question is kind of what's the analog of the mistake that was made with caloric in the case of space. And so my current guess is that dark matter is, as I've, my little sort of aphorism of the last few months has been, you know, dark matter is the caloric of our time. And that is, it will turn out that dark matter is a feature of space. And it is not a bunch of particles. You know, at the time when, when people were talking about heat, they knew about fluids. And they said, well, heat must just be another kind of fluid because that's what they knew about. But now people know about particles. And so they say, well, what's dark matter? It's not, it's not, it just must be particles."
+  },
+  {
+    "start": 519.9914675767918,
+    "end": 522.858361774744,
+    "speaker": "SPEAKER_01",
+    "text": " So what could dark matter be as a feature of space?"
+  },
+  {
+    "start": 522.858361774744,
+    "end": 760.6569965870307,
+    "speaker": "SPEAKER_00",
+    "text": " Oh, I don't know yet. I mean, I think the thing I'm really one of the things I'm hoping to be able to do is to find the analog of Brownian motion in space. So in other words, Brownian motion was seeing down to the level of an effect from individual molecules. And so in the case of space, you know, most of the things we see about space so far, just everything seems continuous. Brownian motion had been discovered in the 1830s. And it was only identified what it was, what it was the, the result of by a small chowski and Einstein at the beginning of the 20th century. And you know, dark matter was discovered, that phenomenon was discovered a hundred years ago. You know, the rotation curves of galaxies don't follow the luminous matter. That was discovered a hundred years ago. And I think, you know, I wouldn't be surprised if there isn't an effect that we already know about. That is kind of the analog of Brownian motion that reveals the discreetness of space. And in fact, we're beginning to have some guesses. We have some, some evidence that black hole mergers work differently when there's discreet space. And there may be things that you can see in gravitational wave signatures and things associated with the discreetness of space. But this is kind of, for me, it's kind of, it's kind of interesting to see this sort of recapitulation of the history of physics where people, you know, vehemently say, you know, matter is continuous. Electromagnetic field is continuous. And turns out it isn't true. And then they say space is continuous. But so, you know, entropy is the number of states of the system consistent with some constraint. Yes. And the thing is that if you have, if you know in great detail, the position of every molecule in the gas, the entropy is always zero because there's only one possible state. The configuration of molecules in the gas, the molecules bounce around. They have a certain rule for bouncing around. There's just one state of the gas evolves to one state of the gas and so on. But it's only if you don't know in detail where all the molecules are that you can say, well, the entropy increases because the things we do know about the molecules, there are more possible microscopic states of the system consistent with what we do know about where the molecules are. And so the question of whether, so people, this sort of paradox in a sense of, oh, if we knew where all the molecules where the entropy wouldn't increase, there was this idea introduced by Gibbs in the early 20th century, well, actually the very beginning of the 20th century as a physics professor, an American physics professor, sort of the first distinguished American physics professor at Yale. And he introduced this idea of course graining, this idea that, well, these molecules have a detailed way they're bouncing around, but we can only observe a coarse grained version of that. But the confusion has been nobody knew what a valid course graining would be. So nobody knew that whether you could have this coarse graining that very carefully was sculpted in just such a way that it would notice that the particular configurations that you could get from the simple initial condition, you know, they fit into this coarse graining and the coarse graining very carefully observes that. Why can't you do that kind of very detailed precise coarse graining? The answer is because if you are a computationally bounded observer and the underlying dynamics is computationally irreducible, that's what defines possible coarse grainings is what a computationally bounded observer can do. And it's the fact that a computationally bounded observer is forced to look only at this kind of coarse grained version of what the system is doing. That's why and because what's going on underneath is it's kind of filling out this, the different possible, you're ending up with something where..."
+  },
+  {
+    "start": 548.5580204778157,
+    "end": 548.8139931740615,
+    "speaker": "SPEAKER_01",
+    "text": ""
+  },
+  {
+    "start": 761.783276450512,
+    "end": 782.9948805460751,
+    "speaker": "SPEAKER_00",
+    "text": " the underlying computational irreducibility is your... If all you can see is what the coarse-grained result is with a sort of computationally bounded observation, then inevitably there are many possible underlying configurations that are consistent with that. Just to make sure that you're not going to be able to"
+  },
+  {
+    "start": 782.9948805460751,
+    "end": 788.2508532423209,
+    "speaker": "SPEAKER_01",
+    "text": " Just to clarify, it basically any observer that exists inside the universe."
+  },
+  {
+    "start": 789.018771331058,
+    "end": 790.7764505119454,
+    "speaker": "SPEAKER_01",
+    "text": " is going to be computationally bounded."
+  },
+  {
+    "start": 791.203071672355,
+    "end": 794.377133105802,
+    "speaker": "SPEAKER_00",
+    "text": " No, any of us over like us. I don't know. I can't say like..."
+  },
+  {
+    "start": 793.4044368600682,
+    "end": 797.5,
+    "speaker": "SPEAKER_01",
+    "text": " I can't say like us. What do you mean? What do you mean like us?"
+  },
+  {
+    "start": 797.5,
+    "end": 801.4931740614335,
+    "speaker": "SPEAKER_00",
+    "text": " well, humans with finite minds, but you're clean."
+  },
+  {
+    "start": 801.4931740614335,
+    "end": 803.5750853242321,
+    "speaker": "SPEAKER_01",
+    "text": " tools of science."
+  },
+  {
+    "start": 803.3361774744028,
+    "end": 884.0017064846417,
+    "speaker": "SPEAKER_00",
+    "text": " Yeah, yeah. I mean, and as we, you know, we have more precise, and by the way, there are little sort of microscopic violations of the second or a thermodynamics that you can start to have when you have more precise measurements of where precisely molecules are. But for a large scale, when you have enough molecules, we don't have, you know, we're not tracing all those molecules, and we just don't have the computational resources to do that. And it wouldn't be, you know, I think that the, to imagine what an observer who is not computationally bounded would be like, it's an interesting thing because, okay, so what does computational boundedness mean? Among other things, it means we conclude that definite things happen. We go, we take all this complexity of the world, and we make a decision, we're going to turn left or turn right. And that is kind of reducing all this kind of detail into, we're observing it, we're sort of crushing it down to this one thing. And that, if we didn't do that, we wouldn't, we wouldn't have all this sort of symbolic structure that we build up that lets us think things through with our finite minds. We'd be instead, you know, we'd be just, we'd be sort of one with the universe."
+  },
+  {
+    "start": 867.1075085324233,
+    "end": 867.3293515358362,
+    "speaker": "SPEAKER_01",
+    "text": " Yeah."
+  },
+  {
+    "start": 884.0017064846417,
+    "end": 887.4146757679181,
+    "speaker": "SPEAKER_01",
+    "text": " So content to not simplify."
+  },
+  {
+    "start": 887.5,
+    "end": 912.6877133105802,
+    "speaker": "SPEAKER_00",
+    "text": " Yes, if we didn't simplify, then we wouldn't be like us. We would be like the universe, like the intrinsic universe, but not having experiences like the experiences we have, where we, for example, conclude that definite things happen. We, you know, we sort of have this notion of being able to make sort of narrative statements."
+  },
+  {
+    "summary": "The conversation discusses the concept of entropy and its relationship to the evolution of the universe. The speakers talk about the history of thermodynamics and how entropy was introduced as a measure of heat and temperature, and later reformulated in terms of combinatorial mathematics by Ludwig Boltzmann. They discuss the idea that matter and space could be discrete, and how this was eventually proven through experiments such as Brownian motion. The speaker also mentions the connection between entropy and the number of possible microscopic configurations of a system given certain constraints. They speculate about the nature of dark matter as a feature of space and its potential connection to the discreetness of space. The speaker also discusses computational boundedness and the limitations of human observers in comprehending the full complexity of the universe. Overall, the conversation explores the historical and theoretical aspects of entropy and its implications for our understanding of the universe."
+  }
+]

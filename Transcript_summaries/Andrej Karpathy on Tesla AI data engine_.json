@@ -1,0 +1,101 @@
+[
+  {
+    "start": 2.9607508532423212,
+    "end": 15.23037542662116,
+    "speaker": "SPEAKER_00",
+    "text": " Let's actually zoom out because I don't think we talked about the data engine, the entirety of the layouts of this idea that I think is just beautiful with humans in the loop. Can you describe the data engine?"
+  },
+  {
+    "start": 15.742320819112628,
+    "end": 86.04948805460751,
+    "speaker": "SPEAKER_01",
+    "text": " Yeah, the data engine is what I call the almost biological feeling like process by which you perfect the training sets for these neural networks. So because most of the programming now is in the level of these data sets and make sure they're large, diverse, and clean, basically, you have a data set that you think is good. You train your neural net, you deploy it, and then you observe how well it's performing. And you're trying to always increase the quality of your data set. So you're trying to catch scenarios, basically, they are basically rare. And it is in these scenarios that your own network typically struggle in because they weren't told what to do in those rare cases in the data set. But now you can close the loop because if you can now collect all those at scale, you can then feed them back into the reconstruction process I described and reconstruct the truth in those cases and add it to the data set. And so the whole thing ends up being like a staircase of improvement of perfecting your training set. And you have to go through deployments so that you can mine the parts that are not yet represented well in the data set. So your data set is basically imperfect. It needs to be diverse. It has pockets. There are missing. And you need to pad out the pockets. You can sort of think of it that way."
+  },
+  {
+    "start": 86.73208191126281,
+    "end": 120.31569965870308,
+    "speaker": "SPEAKER_00",
+    "text": " in the data. What role do humans play in this? So what's the this biological system, like a human body is made up of cells? What role, like, how do you optimize the human system, the multiple engineers collaborating, figuring out what to focus on, what to contribute, which tasks to optimize in this neural network? Who is in charge of figuring out which task needs more data? What can you speak to the hyperparameters, the human system?"
+  },
+  {
+    "start": 86.74914675767918,
+    "end": 87.00511945392492,
+    "speaker": "SPEAKER_01",
+    "text": " in the day."
+  },
+  {
+    "start": 110.12798634812287,
+    "end": 110.34982935153585,
+    "speaker": "SPEAKER_01",
+    "text": " Hmm."
+  },
+  {
+    "start": 120.31569965870308,
+    "end": 146.42491467576792,
+    "speaker": "SPEAKER_01",
+    "text": " It really just comes down to extremely good execution from an engineering team and those what they're doing. They understand intuitively the philosophical insights underlying the data engine and the process by which the system improves and how to, again, delegate the strategy of the data collection and how that works and then just making sure it's all extremely well executed. And that's where most of the work is, is not even the philosophizing or the research or the idea of it. It's just extremely good execution. It's so hard when you're dealing with data at that scale."
+  },
+  {
+    "start": 146.98805460750856,
+    "end": 166.08361774744026,
+    "speaker": "SPEAKER_00",
+    "text": " So your role in the data engine executing well on it, it's difficult and extremely important. Is there a priority of like a vision board of saying like, we really need to get better at stoplights? Like the prioritization of tasks, is that essentially, and that comes from the data."
+  },
+  {
+    "start": 166.7662116040956,
+    "end": 179.01877133105802,
+    "speaker": "SPEAKER_01",
+    "text": " That comes to a very large extent to what we are trying to achieve in a product from a map, or we're trying to, the release we're trying to get out in the feedback from the Q18 worth it, where the system is struggling or not, the things we're trying to improve."
+  },
+  {
+    "start": 179.01877133105802,
+    "end": 187.09044368600684,
+    "speaker": "SPEAKER_00",
+    "text": " and the Q18 gives some signal, some information in aggregate about the performance of the system in various conditions."
+  },
+  {
+    "start": 186.93686006825942,
+    "end": 194.7525597269625,
+    "speaker": "SPEAKER_01",
+    "text": " And then of course all of us drive it, and we can also see it. It's really nice to work with a system that you can also experience yourself, and you know it drives you home."
+  },
+  {
+    "start": 194.7866894197952,
+    "end": 210.16211604095565,
+    "speaker": "SPEAKER_00",
+    "text": " Is there some insight you can draw from your individual experience that you just can't quite get from an aggregate statistical analysis data? Yeah, it's so weird, right? Yes. It's not scientific, in a sense, because you're just one anecdotal sample."
+  },
+  {
+    "start": 202.0392491467577,
+    "end": 202.41467576791808,
+    "speaker": "SPEAKER_01",
+    "text": " out there."
+  },
+  {
+    "start": 210.179180887372,
+    "end": 227.53412969283278,
+    "speaker": "SPEAKER_01",
+    "text": " Yeah, I think there's a ton of, it's a source of truth is your interaction with the system. And you can see it, you can play with it, you can perturb it, you can get a sense of it, you have an intuition for it. I think numbers, just like have a way of numbers and plots and graphs are much harder. It hides a lot of..."
+  },
+  {
+    "start": 227.6194539249147,
+    "end": 236.80034129692837,
+    "speaker": "SPEAKER_00",
+    "text": " it's like if you train a language model, it's a really powerful way is by you interacting with it. Yeah, 100% try to build up an intuition."
+  },
+  {
+    "start": 234.76962457337885,
+    "end": 235.00853242320818,
+    "speaker": "SPEAKER_01",
+    "text": " Yeah."
+  },
+  {
+    "start": 236.88566552901023,
+    "end": 250.96416382252562,
+    "speaker": "SPEAKER_01",
+    "text": " Yeah, I think like Elon also like he always wanted to drive this the system himself. He drives a lot and I want to say almost daily. So he also sees this as a source of truth. You driving the system and it performing."
+  },
+  {
+    "summary": "The conversation is discussing the concept of the data engine and the role of humans in optimizing it. The data engine refers to the process of perfecting training sets for neural networks by continuously improving the quality and diversity of the data. The goal is to identify rare scenarios where neural networks struggle and then collect data on those scenarios to add to the training set. This process of improvement is compared to a staircase.\n\nHumans play a crucial role in the data engine by executing the process with extreme precision and understanding the underlying concepts. The focus is on good execution rather than research or ideation. The prioritization of tasks and the vision come from the goals of the product and feedback from users. The Q18 feedback helps identify areas where the system is struggling and needs improvement.\n\nIndividual experience and interaction with the system provide valuable insights that cannot be obtained through aggregate statistical analysis alone. Numbers and graphs may hide important details, while personal interaction allows for intuition and a better understanding of the system. Elon Musk is mentioned as someone who values personal experience and drives the system himself to assess its performance."
+  }
+]
